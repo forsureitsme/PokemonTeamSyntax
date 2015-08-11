@@ -1,0 +1,31 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+
+name: Pokemon Team
+scopeName: text.pktm
+fileTypes: [pktm]
+uuid: 38777002-7376-4b18-b868-38b1b29c927f
+
+patterns:
+- comment: Name
+  name: entity.name.tag
+  match: .*?(?=\@)
+
+- comment: Item
+  name: keyword.operator
+  match: (?=\@).*
+
+- comment: Tags
+  name: entity.name.function
+  match: (.*:)
+
+- comment: Values
+  name: constant.numeric
+  match: (?!:)([0-9]+ (HP|Atk|Def|SpA|SpD|Spe))
+
+- comment: Nature
+  name: support.class
+  match: .*Nature.*
+
+- comment: Moves
+  name: string.unquoted
+  match: (-.*)

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>pktm</string>
+	</array>
+	<key>name</key>
+	<string>Pokemon Team</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>comment</key>
+			<string>Name</string>
+			<key>match</key>
+			<string>.*?(?=\@)</string>
+			<key>name</key>
+			<string>entity.name.tag</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Item</string>
+			<key>match</key>
+			<string>(?=\@).*</string>
+			<key>name</key>
+			<string>keyword.operator</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Tags</string>
+			<key>match</key>
+			<string>(.*:)</string>
+			<key>name</key>
+			<string>entity.name.function</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Values</string>
+			<key>match</key>
+			<string>(?!:)([0-9]+ (HP|Atk|Def|SpA|SpD|Spe))</string>
+			<key>name</key>
+			<string>constant.numeric</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Nature</string>
+			<key>match</key>
+			<string>.*Nature.*</string>
+			<key>name</key>
+			<string>support.class</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Moves</string>
+			<key>match</key>
+			<string>(-.*)</string>
+			<key>name</key>
+			<string>string.unquoted</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>text.pktm</string>
+	<key>uuid</key>
+	<string>38777002-7376-4b18-b868-38b1b29c927f</string>
+</dict>
+</plist>
