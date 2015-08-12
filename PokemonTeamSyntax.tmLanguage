@@ -46,7 +46,7 @@
 			<key>comment</key>
 			<string>Nature</string>
 			<key>match</key>
-			<string>.*Nature.*</string>
+			<string>.*Nature$</string>
 			<key>name</key>
 			<string>support.class</string>
 		</dict>

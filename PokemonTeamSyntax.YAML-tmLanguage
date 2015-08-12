@@ -24,7 +24,7 @@ patterns:
 
 - comment: Nature
   name: support.class
-  match: .*Nature.*
+  match: .*Nature$
 
 - comment: Moves
   name: string.unquoted
