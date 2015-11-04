@@ -10,6 +10,6 @@ Here's an example, running on Monokai Color Scheme:
 ## Changelog
 
 - 1.0.1
-  - FIXED: Move "Nature Power" was wrongly recognized as a Nature.
+  - Fixed Move "Nature Power" was wrongly being recognized as a Nature.
 - 1.0.0
   - Initial release.
