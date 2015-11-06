@@ -5,6 +5,8 @@ Syntax highlighting for Pokemon Team's importables.
 ![PokemonTeamSyntax](https://cloud.githubusercontent.com/assets/2235293/11000535/81dacc32-8489-11e5-8d42-ce2d16bf2370.png)
 
 ## Changelog
+- 1.1.1
+  - Forgot to include "Timid" nature to the dictionary
 - 1.1.0
   - Things will only be colored only if they are valid
     - IVs/EVs numbers followed by one of the stats (HP, Atk, Def, SpA, SpD and Spe)
