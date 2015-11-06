@@ -1,6 +1,8 @@
 # PokemonTeamSyntax
 
-Syntax highlighting for Pokemon Team's importables.
+Syntax highlighting for Pokemon Team's importables in Sublime Text, by setting the syntax on the lower right corner, or saving the file with the .pktm extension.
+
+It was roughly tested in ST3 only. Please, help me out in testing it in other places, such as ST2 and TextMate.
 
 ![PokemonTeamSyntax](https://cloud.githubusercontent.com/assets/2235293/11000535/81dacc32-8489-11e5-8d42-ce2d16bf2370.png)
 
