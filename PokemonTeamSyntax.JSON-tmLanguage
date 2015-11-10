@@ -1,0 +1,55 @@
+{
+	"name": "Pokemon Team",
+	"scopeName": "text.pktm",
+	"uuid": "38777002-7376-4b18-b868-38b1b29c927f",
+	"fileTypes": [
+		"pktm"
+	],
+	"patterns": [
+		{
+			"match": "(\\s?/\\s?)?([0-9]+\\s(HP|Atk|Def|SpA|SpD|Spe))",
+			"comment": "IV/EV",
+			"name": "constant.numeric"
+		},
+		{
+			"match": "(?<=Happiness:\\s|Level:\\s)[0-9]+",
+			"comment": "Happiness/Level",
+			"name": "constant.numeric"
+		},
+		{
+			"match": "(?<=Shiny:\\s)(Yes|No)",
+			"comment": "Shiny",
+			"name": "constant.numeric"
+		},
+		{
+			"match": "(?<=Ability:\\s)({{abilities}})",
+			"comment": "Abilities",
+			"name": "constant.numeric"
+		},
+		{
+			"match": "(Adamant|Bashful|Bold|Brave|Calm|Careful|Docile|Gentle|Hardy|Hasty|Impish|Jolly|Lax|Lonely|Mild|Modest|Naive|Naughty|Quiet|Quirky|Rash|Relaxed|Sassy|Serious|Timid)(?:\\sNature)",
+			"comment": "Natures",
+			"name": "support.class"
+		},
+		{
+			"match": "-\\s({{moves}})",
+			"comment": "Moves",
+			"name": "string.unquoted"
+		},
+		{
+			"match": "((Ability|EVs|IVs|Shiny|Happiness|Level):)",
+			"comment": "Properties",
+			"name": "entity.name.function"
+		},
+		{
+			"match": "\\s@\\s({{items}})",
+			"comment": "Items",
+			"name": "keyword.operator"
+		},
+		{
+			"match": "({{pokemons}})(?=\\s|\\))",
+			"comment": "Species",
+			"name": "entity.name.tag"
+		}
+	]
+}

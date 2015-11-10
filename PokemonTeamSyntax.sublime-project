@@ -4,5 +4,13 @@
 		{
 			"path": "."
 		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Update data and build tmLanguage file.",
+			"selector": "*",
+			"cmd": ["node", "build.js"]
+		}
 	]
 }
