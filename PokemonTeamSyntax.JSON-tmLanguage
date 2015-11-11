@@ -7,7 +7,7 @@
 	],
 	"patterns": [
 		{
-			"match": "(\\s?/\\s?)?([0-9]+\\s(HP|Atk|Def|SpA|SpD|Spe))",
+			"match": "([0-9]+\\s(HP|Atk|Def|SpA|SpD|Spe))",
 			"comment": "IV/EV",
 			"name": "constant.numeric"
 		},
@@ -22,7 +22,7 @@
 			"name": "constant.numeric"
 		},
 		{
-			"match": "(?<=Ability:\\s)({{abilities}})",
+			"match": "({{abilities}})",
 			"comment": "Abilities",
 			"name": "constant.numeric"
 		},
@@ -42,12 +42,12 @@
 			"name": "entity.name.function"
 		},
 		{
-			"match": "\\s@\\s({{items}})",
+			"match": "({{items}})",
 			"comment": "Items",
 			"name": "keyword.operator"
 		},
 		{
-			"match": "({{pokemons}})(?=\\s|\\))",
+			"match": "({{pokemons}})",
 			"comment": "Species",
 			"name": "entity.name.tag"
 		}

@@ -4,12 +4,15 @@ Syntax highlighting for Pokemon Team's importables in Sublime Text, by setting t
 
 It was roughly tested in ST3 only. Please, help me out in testing it in other places, such as ST2 and TextMate.
 
-![PokemonTeamSyntax](https://cloud.githubusercontent.com/assets/2235293/11000535/81dacc32-8489-11e5-8d42-ce2d16bf2370.png)
+![PokemonTeamSyntax](https://cloud.githubusercontent.com/assets/2235293/11094374/a6248c22-8876-11e5-8536-9169f4d1060d.png)
 
 ## Changelog
+- 2.0.0
+  - [Completions](https://github.com/forsureitsme/PokemonTeamSyntax/issues/4): You can now auto-complete by typing part of what you want and using your auto-completion shortcut.
+  - Rules were slightly tweaked and now the "@" is not colored with the item.
 - 1.2.0
   - Moved from YAML to JSON.
-  - Fixed an issue(#5) where "Flash" makes the move "Flash Cannon" behave weirdly. The same happened to "Charge" and "Charge Beam, and "Thunder" with "Thunderbolt.
+  - Fixed an issue([#5](https://github.com/forsureitsme/PokemonTeamSyntax/issues/5)) where "Flash" makes the move "Flash Cannon" behave weirdly. The same happened to "Charge" and "Charge Beam, and "Thunder" with "Thunderbolt.
   - Included a ``Contribute`` section in the README, for those who want to help.
   - Updated to latest(09/11/2015) data from [Pokemon-Showdown-Client](https://github.com/Zarel/Pokemon-Showdown-Client).
 - 1.1.1
@@ -31,15 +34,17 @@ It was roughly tested in ST3 only. Please, help me out in testing it in other pl
 
 ## Contribute
 
-Before anything: don't edit the ``PokemonTeamSyntax.tmLanguage``, it needs to be built with the ``build.js`` script.
+Don't edit the ``PokemonTeamSyntax.tmLanguage``, it needs to be built with ``build.js``.
+You may edit any properties of ``PokemonTeamSyntax.sublime-completions`` file, except the ``completions`` one, since the build script is going to overwrite it.
 
-- Install node
-- Install the following node packages:
-  - fs (Reads/writes files)
-  - async (Asynchronous requests)
-  - request (Requests latest data from [Pokemon-Showdown-Client](https://github.com/Zarel/Pokemon-Showdown-Client))
-  - plist (Converts JSON to plist, the format Sublime uses)
-- Clone this repository.
-- Alter ``PokemonTeamSyntax.JSON-tmLanguage`` as you like.
-- Run ``node build.js``, it will replace all the ``{{patterns}}`` with data loaded from ``data.json``. It's not that hard to understand the code in the build script.
-  - If you use Sublime Text 3, I included a project file which lets you build right away with the ``Build`` shortcut.
+If you use Sublime Text 3, I included a project file which lets you build right away with your ``Build`` shortcut.
+
+```shell
+# Install node, or make sure it's installed by running:
+node -v
+
+# Clone the repository
+git clone https://github.com/forsureitsme/PokemonTeamSyntax.git
+npm install
+node build.js
+```
