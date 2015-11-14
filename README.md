@@ -6,6 +6,10 @@ It was roughly tested in ST3 only. Please, help me out in testing it in other pl
 
 ![PokemonTeamSyntax](https://cloud.githubusercontent.com/assets/2235293/11094374/a6248c22-8876-11e5-8536-9169f4d1060d.png)
 
+## Install
+
+It's recommended to install it through [Package Control](http://packagecontrol.io), since it can update automatically when new releases are available. However, you can manually install it by [downloading it](https://github.com/forsureitsme/PokemonTeamSyntax/releases) and extracting to your Packages Folder([Preferences > Browse Packages](http://i.imgur.com/T2Qyuaz.jpg)).
+
 ## Changelog
 - 2.0.0
   - [Completions](https://github.com/forsureitsme/PokemonTeamSyntax/issues/4): You can now auto-complete by typing part of what you want and using your auto-completion shortcut.
