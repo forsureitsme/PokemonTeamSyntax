@@ -1074,8 +1074,8 @@
 			"contents": "Electric Gem"
 		},
 		{
-			"trigger": "EnergyPowder\tItems",
-			"contents": "EnergyPowder"
+			"trigger": "Energy Powder\tItems",
+			"contents": "Energy Powder"
 		},
 		{
 			"trigger": "Enigma Berry\tItems",
@@ -1916,6 +1916,62 @@
 		{
 			"trigger": "Zoom Lens\tItems",
 			"contents": "Zoom Lens"
+		},
+		{
+			"trigger": "Berserk Gene\tItems",
+			"contents": "Berserk Gene"
+		},
+		{
+			"trigger": "Berry\tItems",
+			"contents": "Berry"
+		},
+		{
+			"trigger": "Bitter Berry\tItems",
+			"contents": "Bitter Berry"
+		},
+		{
+			"trigger": "Burnt Berry\tItems",
+			"contents": "Burnt Berry"
+		},
+		{
+			"trigger": "Dragon Scale\tItems",
+			"contents": "Dragon Scale"
+		},
+		{
+			"trigger": "Gold Berry\tItems",
+			"contents": "Gold Berry"
+		},
+		{
+			"trigger": "Ice Berry\tItems",
+			"contents": "Ice Berry"
+		},
+		{
+			"trigger": "Mint Berry\tItems",
+			"contents": "Mint Berry"
+		},
+		{
+			"trigger": "Miracle Berry\tItems",
+			"contents": "Miracle Berry"
+		},
+		{
+			"trigger": "Mystery Berry\tItems",
+			"contents": "Mystery Berry"
+		},
+		{
+			"trigger": "Pink Bow\tItems",
+			"contents": "Pink Bow"
+		},
+		{
+			"trigger": "Polkadot Bow\tItems",
+			"contents": "Polkadot Bow"
+		},
+		{
+			"trigger": "PRZ Cure Berry\tItems",
+			"contents": "PRZ Cure Berry"
+		},
+		{
+			"trigger": "PSN Cure Berry\tItems",
+			"contents": "PSN Cure Berry"
 		},
 		{
 			"trigger": "Absorb\tMoves",
