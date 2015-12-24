@@ -2,11 +2,32 @@
 
 Syntax highlighting for Pokemon Team's importables in Sublime Text, by setting the syntax on the lower right corner, or saving the file with the .pktm extension.
 
-It was roughly tested in ST3 only. Please, help me out in testing it in other places, such as ST2 and TextMate.
+It was roughly tested in ST3 only. Please, help me out in testing it in other editors, such as ST2 and TextMate.
 
 ![PokemonTeamSyntax](https://cloud.githubusercontent.com/assets/2235293/11094374/a6248c22-8876-11e5-8536-9169f4d1060d.png)
 
+## Install
+
+It's recommended to install it through [Package Control](http://packagecontrol.io), since it can update automatically when new releases are available. However, you can manually install it by [downloading it](https://github.com/forsureitsme/PokemonTeamSyntax/releases) and extracting to your Packages Folder([Preferences > Browse Packages](http://i.imgur.com/T2Qyuaz.jpg)).
+
 ## Changelog
+- 2.1.0
+  - Added the following items, by the [latest update from Pokemon Showdown Client Repository](https://github.com/Zarel/Pokemon-Showdown-Client/commit/0e82df26d493ce02bf1f4384107afd83eee3309b).
+    - Energy Powder
+    - Berserk Gene
+    - Berry
+    - Bitter Berry
+    - Burnt Berry
+    - Dragon Scale
+    - Gold Berry
+    - Ice Berry
+    - Mint Berry
+    - Miracle Berry
+    - Mystery Berry
+    - Pink Bow
+    - Polkadot Bow
+    - PRZ Cure Berry
+    - PSN Cure Berry
 - 2.0.0
   - [Completions](https://github.com/forsureitsme/PokemonTeamSyntax/issues/4): You can now auto-complete by typing part of what you want and using your auto-completion shortcut.
   - Rules were slightly tweaked and now the "@" is not colored with the item.
