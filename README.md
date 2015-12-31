@@ -11,6 +11,8 @@ It was roughly tested in ST3 only. Please, help me out in testing it in other ed
 It's recommended to install it through [Package Control](http://packagecontrol.io), since it can update automatically when new releases are available. However, you can manually install it by [downloading it](https://github.com/forsureitsme/PokemonTeamSyntax/releases) and extracting to your Packages Folder([Preferences > Browse Packages](http://i.imgur.com/T2Qyuaz.jpg)).
 
 ## Changelog
+- 2.2.0
+  - Removed Pikachu-Cosplay from the pokemon completions, as update from Pokemon Showdown Client.
 - 2.1.0
   - Added the following items, by the [latest update from Pokemon Showdown Client Repository](https://github.com/Zarel/Pokemon-Showdown-Client/commit/0e82df26d493ce02bf1f4384107afd83eee3309b).
     - Energy Powder
