@@ -12,7 +12,7 @@ It's recommended to install it through [Package Control](http://packagecontrol.i
 
 ## Changelog
 - 2.2.0
-  - Removed Pikachu-Cosplay from the pokemon completions, as update from Pokemon Showdown Client.
+  - Removed Pikachu-Cosplay from the pokemon completions, as [update from Pokemon Showdown Client](https://github.com/Zarel/Pokemon-Showdown-Client/commit/08bcba01cb746613d2cef9165f6f9834e9d3b4ba).
 - 2.1.0
   - Added the following items, by the [latest update from Pokemon Showdown Client Repository](https://github.com/Zarel/Pokemon-Showdown-Client/commit/0e82df26d493ce02bf1f4384107afd83eee3309b).
     - Energy Powder
