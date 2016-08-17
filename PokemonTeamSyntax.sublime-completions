@@ -1974,6 +1974,10 @@
 			"contents": "PSN Cure Berry"
 		},
 		{
+			"trigger": "Crucibellite\tItems",
+			"contents": "Crucibellite"
+		},
+		{
 			"trigger": "Absorb\tMoves",
 			"contents": "Absorb"
 		},
@@ -4656,6 +4660,10 @@
 		{
 			"trigger": "Pikachu\tPokemons",
 			"contents": "Pikachu"
+		},
+		{
+			"trigger": "Pikachu-Cosplay\tPokemons",
+			"contents": "Pikachu-Cosplay"
 		},
 		{
 			"trigger": "Pikachu-Rock-Star\tPokemons",
@@ -7602,6 +7610,14 @@
 			"contents": "Vivillon"
 		},
 		{
+			"trigger": "Vivillon-Fancy\tPokemons",
+			"contents": "Vivillon-Fancy"
+		},
+		{
+			"trigger": "Vivillon-Pokeball\tPokemons",
+			"contents": "Vivillon-Pokeball"
+		},
+		{
 			"trigger": "Litleo\tPokemons",
 			"contents": "Litleo"
 		},
@@ -7618,8 +7634,8 @@
 			"contents": "Floette"
 		},
 		{
-			"trigger": "Floette-Eternal-Flower\tPokemons",
-			"contents": "Floette-Eternal-Flower"
+			"trigger": "Floette-Eternal\tPokemons",
+			"contents": "Floette-Eternal"
 		},
 		{
 			"trigger": "Florges\tPokemons",
@@ -7904,6 +7920,14 @@
 		{
 			"trigger": "Naviathan\tPokemons",
 			"contents": "Naviathan"
+		},
+		{
+			"trigger": "Crucibelle\tPokemons",
+			"contents": "Crucibelle"
+		},
+		{
+			"trigger": "Crucibelle-Mega\tPokemons",
+			"contents": "Crucibelle-Mega"
 		},
 		{
 			"trigger": "Syclant\tPokemons",
