@@ -13,6 +13,8 @@ It was roughly tested in ST3 only. Please, help me out in testing it in other ed
 It's recommended to install it through [Package Control](http://packagecontrol.io), since it can update automatically when new releases are available. However, you can manually install it by [downloading it](https://github.com/forsureitsme/PokemonTeamSyntax/releases) and extracting to your Packages Folder([Preferences > Browse Packages](http://i.imgur.com/T2Qyuaz.jpg)).
 
 ## Changelog
+- 2.4.0
+  - Sun & Moon changes. I didn't even bother to get the whole changelist because it's really too much.
 - 2.3.0
   - Build data updated to reflect the content being moved from [Pokemon-Showdown-Client](https://github.com/Zarel/Pokemon-Showdown-Client) to [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown).
   - Added Crucibelle, as [update from Pokemon Showdown](https://github.com/Zarel/Pokemon-Showdown/commit/b7d3ce40e791a83ea615622084b312fd9b41b95f).
