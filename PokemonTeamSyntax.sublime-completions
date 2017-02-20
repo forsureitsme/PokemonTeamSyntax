@@ -6382,6 +6382,10 @@
 			"contents": "Smeargle"
 		},
 		{
+			"trigger": "Pokestar Smeargle\tPokemons",
+			"contents": "Pokestar Smeargle"
+		},
+		{
 			"trigger": "Tyrogue\tPokemons",
 			"contents": "Tyrogue"
 		},
@@ -9204,6 +9208,70 @@
 		{
 			"trigger": "Voodoom\tPokemons",
 			"contents": "Voodoom"
+		},
+		{
+			"trigger": "Pokestar UFO\tPokemons",
+			"contents": "Pokestar UFO"
+		},
+		{
+			"trigger": "Pokestar UFO-2\tPokemons",
+			"contents": "Pokestar UFO-2"
+		},
+		{
+			"trigger": "Pokestar Brycen-Man\tPokemons",
+			"contents": "Pokestar Brycen-Man"
+		},
+		{
+			"trigger": "Pokestar MT\tPokemons",
+			"contents": "Pokestar MT"
+		},
+		{
+			"trigger": "Pokestar MT2\tPokemons",
+			"contents": "Pokestar MT2"
+		},
+		{
+			"trigger": "Pokestar Transport\tPokemons",
+			"contents": "Pokestar Transport"
+		},
+		{
+			"trigger": "Pokestar Giant\tPokemons",
+			"contents": "Pokestar Giant"
+		},
+		{
+			"trigger": "Pokestar Humanoid\tPokemons",
+			"contents": "Pokestar Humanoid"
+		},
+		{
+			"trigger": "Pokestar Monster\tPokemons",
+			"contents": "Pokestar Monster"
+		},
+		{
+			"trigger": "Pokestar F-00\tPokemons",
+			"contents": "Pokestar F-00"
+		},
+		{
+			"trigger": "Pokestar F-002\tPokemons",
+			"contents": "Pokestar F-002"
+		},
+		{
+			"trigger": "Pokestar Spirit\tPokemons",
+			"contents": "Pokestar Spirit"
+		},
+		{
+			"trigger": "Pokestar Black Door\tPokemons",
+			"contents": "Pokestar Black Door"
+		},
+		{
+			"trigger": "Pokestar White Door\tPokemons",
+			"contents": "Pokestar White Door"
+		},
+		{
+			"trigger": "Pokestar Black Belt\tPokemons",
+			"contents": "Pokestar Black Belt"
+		},
+		{
+			"trigger": "Pokestar UFO-PropU2\tPokemons",
+			"contents": "Pokestar UFO-PropU2"
 		},
 		{
 			"trigger": "Adamant\tNatures",
