@@ -1,6 +1,6 @@
 # PokemonTeamSyntax ![Version](https://img.shields.io/github/release/forsureitsme/PokemonTeamSyntax.svg?label=Version)
 
-![Downloads](https://img.shields.io/packagecontrol/dt/PokemonTeamSyntax.svg?label=Package Control Downloads)
+![Downloads](https://img.shields.io/packagecontrol/dt/PokemonTeamSyntax.svg?label=Package%20Control%20Downloads)
 
 Syntax highlighting for Pokemon Team's importables in Sublime Text, by setting the syntax on the lower right corner, or saving the file with the .pktm extension.
 
