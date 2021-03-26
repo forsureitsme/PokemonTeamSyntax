@@ -1,17 +1,21 @@
 {
-	"scope": "text.pktm",
+	"scope": "source",
 	"completions": [
+		{
+			"trigger": "No Ability\tAbilities",
+			"contents": "No Ability"
+		},
 		{
 			"trigger": "Adaptability\tAbilities",
 			"contents": "Adaptability"
 		},
 		{
-			"trigger": "Aftermath\tAbilities",
-			"contents": "Aftermath"
-		},
-		{
 			"trigger": "Aerilate\tAbilities",
 			"contents": "Aerilate"
+		},
+		{
+			"trigger": "Aftermath\tAbilities",
+			"contents": "Aftermath"
 		},
 		{
 			"trigger": "Air Lock\tAbilities",
@@ -38,12 +42,24 @@
 			"contents": "Aroma Veil"
 		},
 		{
+			"trigger": "As One (Glastrier)\tAbilities",
+			"contents": "As One (Glastrier)"
+		},
+		{
+			"trigger": "As One (Spectrier)\tAbilities",
+			"contents": "As One (Spectrier)"
+		},
+		{
 			"trigger": "Aura Break\tAbilities",
 			"contents": "Aura Break"
 		},
 		{
 			"trigger": "Bad Dreams\tAbilities",
 			"contents": "Bad Dreams"
+		},
+		{
+			"trigger": "Ball Fetch\tAbilities",
+			"contents": "Ball Fetch"
 		},
 		{
 			"trigger": "Battery\tAbilities",
@@ -82,6 +98,10 @@
 			"contents": "Cheek Pouch"
 		},
 		{
+			"trigger": "Chilling Neigh\tAbilities",
+			"contents": "Chilling Neigh"
+		},
+		{
 			"trigger": "Chlorophyll\tAbilities",
 			"contents": "Chlorophyll"
 		},
@@ -118,6 +138,14 @@
 			"contents": "Corrosion"
 		},
 		{
+			"trigger": "Cotton Down\tAbilities",
+			"contents": "Cotton Down"
+		},
+		{
+			"trigger": "Curious Medicine\tAbilities",
+			"contents": "Curious Medicine"
+		},
+		{
 			"trigger": "Cursed Body\tAbilities",
 			"contents": "Cursed Body"
 		},
@@ -136,6 +164,10 @@
 		{
 			"trigger": "Dark Aura\tAbilities",
 			"contents": "Dark Aura"
+		},
+		{
+			"trigger": "Dauntless Shield\tAbilities",
+			"contents": "Dauntless Shield"
 		},
 		{
 			"trigger": "Dazzling\tAbilities",
@@ -164,6 +196,10 @@
 		{
 			"trigger": "Download\tAbilities",
 			"contents": "Download"
+		},
+		{
+			"trigger": "Dragon's Maw\tAbilities",
+			"contents": "Dragon's Maw"
 		},
 		{
 			"trigger": "Drizzle\tAbilities",
@@ -266,12 +302,24 @@
 			"contents": "Gooey"
 		},
 		{
+			"trigger": "Gorilla Tactics\tAbilities",
+			"contents": "Gorilla Tactics"
+		},
+		{
 			"trigger": "Grass Pelt\tAbilities",
 			"contents": "Grass Pelt"
 		},
 		{
 			"trigger": "Grassy Surge\tAbilities",
 			"contents": "Grassy Surge"
+		},
+		{
+			"trigger": "Grim Neigh\tAbilities",
+			"contents": "Grim Neigh"
+		},
+		{
+			"trigger": "Gulp Missile\tAbilities",
+			"contents": "Gulp Missile"
 		},
 		{
 			"trigger": "Guts\tAbilities",
@@ -302,6 +350,10 @@
 			"contents": "Huge Power"
 		},
 		{
+			"trigger": "Hunger Switch\tAbilities",
+			"contents": "Hunger Switch"
+		},
+		{
 			"trigger": "Hustle\tAbilities",
 			"contents": "Hustle"
 		},
@@ -316,6 +368,14 @@
 		{
 			"trigger": "Ice Body\tAbilities",
 			"contents": "Ice Body"
+		},
+		{
+			"trigger": "Ice Face\tAbilities",
+			"contents": "Ice Face"
+		},
+		{
+			"trigger": "Ice Scales\tAbilities",
+			"contents": "Ice Scales"
 		},
 		{
 			"trigger": "Illuminate\tAbilities",
@@ -354,6 +414,10 @@
 			"contents": "Intimidate"
 		},
 		{
+			"trigger": "Intrepid Sword\tAbilities",
+			"contents": "Intrepid Sword"
+		},
+		{
 			"trigger": "Iron Barbs\tAbilities",
 			"contents": "Iron Barbs"
 		},
@@ -380,6 +444,10 @@
 		{
 			"trigger": "Levitate\tAbilities",
 			"contents": "Levitate"
+		},
+		{
+			"trigger": "Libero\tAbilities",
+			"contents": "Libero"
 		},
 		{
 			"trigger": "Light Metal\tAbilities",
@@ -438,8 +506,16 @@
 			"contents": "Merciless"
 		},
 		{
+			"trigger": "Mimicry\tAbilities",
+			"contents": "Mimicry"
+		},
+		{
 			"trigger": "Minus\tAbilities",
 			"contents": "Minus"
+		},
+		{
+			"trigger": "Mirror Armor\tAbilities",
+			"contents": "Mirror Armor"
 		},
 		{
 			"trigger": "Misty Surge\tAbilities",
@@ -478,6 +554,14 @@
 			"contents": "Natural Cure"
 		},
 		{
+			"trigger": "Neuroforce\tAbilities",
+			"contents": "Neuroforce"
+		},
+		{
+			"trigger": "Neutralizing Gas\tAbilities",
+			"contents": "Neutralizing Gas"
+		},
+		{
 			"trigger": "No Guard\tAbilities",
 			"contents": "No Guard"
 		},
@@ -506,12 +590,20 @@
 			"contents": "Parental Bond"
 		},
 		{
-			"trigger": "Pickup\tAbilities",
-			"contents": "Pickup"
+			"trigger": "Pastel Veil\tAbilities",
+			"contents": "Pastel Veil"
+		},
+		{
+			"trigger": "Perish Body\tAbilities",
+			"contents": "Perish Body"
 		},
 		{
 			"trigger": "Pickpocket\tAbilities",
 			"contents": "Pickpocket"
+		},
+		{
+			"trigger": "Pickup\tAbilities",
+			"contents": "Pickup"
 		},
 		{
 			"trigger": "Pixilate\tAbilities",
@@ -542,6 +634,10 @@
 			"contents": "Power of Alchemy"
 		},
 		{
+			"trigger": "Power Spot\tAbilities",
+			"contents": "Power Spot"
+		},
+		{
 			"trigger": "Prankster\tAbilities",
 			"contents": "Prankster"
 		},
@@ -558,6 +654,10 @@
 			"contents": "Prism Armor"
 		},
 		{
+			"trigger": "Propeller Tail\tAbilities",
+			"contents": "Propeller Tail"
+		},
+		{
 			"trigger": "Protean\tAbilities",
 			"contents": "Protean"
 		},
@@ -566,12 +666,20 @@
 			"contents": "Psychic Surge"
 		},
 		{
+			"trigger": "Punk Rock\tAbilities",
+			"contents": "Punk Rock"
+		},
+		{
 			"trigger": "Pure Power\tAbilities",
 			"contents": "Pure Power"
 		},
 		{
 			"trigger": "Queenly Majesty\tAbilities",
 			"contents": "Queenly Majesty"
+		},
+		{
+			"trigger": "Quick Draw\tAbilities",
+			"contents": "Quick Draw"
 		},
 		{
 			"trigger": "Quick Feet\tAbilities",
@@ -602,6 +710,10 @@
 			"contents": "Regenerator"
 		},
 		{
+			"trigger": "Ripen\tAbilities",
+			"contents": "Ripen"
+		},
+		{
 			"trigger": "Rivalry\tAbilities",
 			"contents": "Rivalry"
 		},
@@ -630,6 +742,10 @@
 			"contents": "Sand Rush"
 		},
 		{
+			"trigger": "Sand Spit\tAbilities",
+			"contents": "Sand Spit"
+		},
+		{
 			"trigger": "Sand Stream\tAbilities",
 			"contents": "Sand Stream"
 		},
@@ -648,6 +764,10 @@
 		{
 			"trigger": "Scrappy\tAbilities",
 			"contents": "Scrappy"
+		},
+		{
+			"trigger": "Screen Cleaner\tAbilities",
+			"contents": "Screen Cleaner"
 		},
 		{
 			"trigger": "Serene Grace\tAbilities",
@@ -738,6 +858,10 @@
 			"contents": "Stall"
 		},
 		{
+			"trigger": "Stalwart\tAbilities",
+			"contents": "Stalwart"
+		},
+		{
 			"trigger": "Stamina\tAbilities",
 			"contents": "Stamina"
 		},
@@ -754,8 +878,16 @@
 			"contents": "Steadfast"
 		},
 		{
+			"trigger": "Steam Engine\tAbilities",
+			"contents": "Steam Engine"
+		},
+		{
 			"trigger": "Steelworker\tAbilities",
 			"contents": "Steelworker"
+		},
+		{
+			"trigger": "Steely Spirit\tAbilities",
+			"contents": "Steely Spirit"
 		},
 		{
 			"trigger": "Stench\tAbilities",
@@ -842,16 +974,20 @@
 			"contents": "Torrent"
 		},
 		{
-			"trigger": "Toxic Boost\tAbilities",
-			"contents": "Toxic Boost"
-		},
-		{
 			"trigger": "Tough Claws\tAbilities",
 			"contents": "Tough Claws"
 		},
 		{
+			"trigger": "Toxic Boost\tAbilities",
+			"contents": "Toxic Boost"
+		},
+		{
 			"trigger": "Trace\tAbilities",
 			"contents": "Trace"
+		},
+		{
+			"trigger": "Transistor\tAbilities",
+			"contents": "Transistor"
 		},
 		{
 			"trigger": "Triage\tAbilities",
@@ -878,6 +1014,10 @@
 			"contents": "Unnerve"
 		},
 		{
+			"trigger": "Unseen Fist\tAbilities",
+			"contents": "Unseen Fist"
+		},
+		{
 			"trigger": "Victory Star\tAbilities",
 			"contents": "Victory Star"
 		},
@@ -888,6 +1028,10 @@
 		{
 			"trigger": "Volt Absorb\tAbilities",
 			"contents": "Volt Absorb"
+		},
+		{
+			"trigger": "Wandering Spirit\tAbilities",
+			"contents": "Wandering Spirit"
 		},
 		{
 			"trigger": "Water Absorb\tAbilities",
@@ -1038,6 +1182,10 @@
 			"contents": "Berry Juice"
 		},
 		{
+			"trigger": "Berry Sweet\tItems",
+			"contents": "Berry Sweet"
+		},
+		{
 			"trigger": "Big Root\tItems",
 			"contents": "Big Root"
 		},
@@ -1074,8 +1222,16 @@
 			"contents": "Bluk Berry"
 		},
 		{
-			"trigger": "BrightPowder\tItems",
-			"contents": "BrightPowder"
+			"trigger": "Blunder Policy\tItems",
+			"contents": "Blunder Policy"
+		},
+		{
+			"trigger": "Bottle Cap\tItems",
+			"contents": "Bottle Cap"
+		},
+		{
+			"trigger": "Bright Powder\tItems",
+			"contents": "Bright Powder"
 		},
 		{
 			"trigger": "Bug Gem\tItems",
@@ -1138,6 +1294,10 @@
 			"contents": "Chill Drive"
 		},
 		{
+			"trigger": "Chipped Pot\tItems",
+			"contents": "Chipped Pot"
+		},
+		{
 			"trigger": "Choice Band\tItems",
 			"contents": "Choice Band"
 		},
@@ -1158,6 +1318,10 @@
 			"contents": "Claw Fossil"
 		},
 		{
+			"trigger": "Clover Sweet\tItems",
+			"contents": "Clover Sweet"
+		},
+		{
 			"trigger": "Coba Berry\tItems",
 			"contents": "Coba Berry"
 		},
@@ -1172,6 +1336,10 @@
 		{
 			"trigger": "Cover Fossil\tItems",
 			"contents": "Cover Fossil"
+		},
+		{
+			"trigger": "Cracked Pot\tItems",
+			"contents": "Cracked Pot"
 		},
 		{
 			"trigger": "Custap Berry\tItems",
@@ -1194,16 +1362,20 @@
 			"contents": "Darkinium Z"
 		},
 		{
+			"trigger": "Dawn Stone\tItems",
+			"contents": "Dawn Stone"
+		},
+		{
 			"trigger": "Decidium Z\tItems",
 			"contents": "Decidium Z"
 		},
 		{
-			"trigger": "DeepSeaScale\tItems",
-			"contents": "DeepSeaScale"
+			"trigger": "Deep Sea Scale\tItems",
+			"contents": "Deep Sea Scale"
 		},
 		{
-			"trigger": "DeepSeaTooth\tItems",
-			"contents": "DeepSeaTooth"
+			"trigger": "Deep Sea Tooth\tItems",
+			"contents": "Deep Sea Tooth"
 		},
 		{
 			"trigger": "Destiny Knot\tItems",
@@ -1242,6 +1414,10 @@
 			"contents": "Dragon Memory"
 		},
 		{
+			"trigger": "Dragon Scale\tItems",
+			"contents": "Dragon Scale"
+		},
+		{
 			"trigger": "Dragonium Z\tItems",
 			"contents": "Dragonium Z"
 		},
@@ -1254,12 +1430,20 @@
 			"contents": "Dream Ball"
 		},
 		{
+			"trigger": "Dubious Disc\tItems",
+			"contents": "Dubious Disc"
+		},
+		{
 			"trigger": "Durin Berry\tItems",
 			"contents": "Durin Berry"
 		},
 		{
 			"trigger": "Dusk Ball\tItems",
 			"contents": "Dusk Ball"
+		},
+		{
+			"trigger": "Dusk Stone\tItems",
+			"contents": "Dusk Stone"
 		},
 		{
 			"trigger": "Earth Plate\tItems",
@@ -1272,6 +1456,10 @@
 		{
 			"trigger": "Eject Button\tItems",
 			"contents": "Eject Button"
+		},
+		{
+			"trigger": "Eject Pack\tItems",
+			"contents": "Eject Pack"
 		},
 		{
 			"trigger": "Electirizer\tItems",
@@ -1350,6 +1538,10 @@
 			"contents": "Fire Memory"
 		},
 		{
+			"trigger": "Fire Stone\tItems",
+			"contents": "Fire Stone"
+		},
+		{
 			"trigger": "Firium Z\tItems",
 			"contents": "Firium Z"
 		},
@@ -1368,6 +1560,10 @@
 		{
 			"trigger": "Float Stone\tItems",
 			"contents": "Float Stone"
+		},
+		{
+			"trigger": "Flower Sweet\tItems",
+			"contents": "Flower Sweet"
 		},
 		{
 			"trigger": "Flying Gem\tItems",
@@ -1390,12 +1586,36 @@
 			"contents": "Focus Sash"
 		},
 		{
+			"trigger": "Fossilized Bird\tItems",
+			"contents": "Fossilized Bird"
+		},
+		{
+			"trigger": "Fossilized Dino\tItems",
+			"contents": "Fossilized Dino"
+		},
+		{
+			"trigger": "Fossilized Drake\tItems",
+			"contents": "Fossilized Drake"
+		},
+		{
+			"trigger": "Fossilized Fish\tItems",
+			"contents": "Fossilized Fish"
+		},
+		{
 			"trigger": "Friend Ball\tItems",
 			"contents": "Friend Ball"
 		},
 		{
 			"trigger": "Full Incense\tItems",
 			"contents": "Full Incense"
+		},
+		{
+			"trigger": "Galarica Cuff\tItems",
+			"contents": "Galarica Cuff"
+		},
+		{
+			"trigger": "Galarica Wreath\tItems",
+			"contents": "Galarica Wreath"
 		},
 		{
 			"trigger": "Galladite\tItems",
@@ -1432,6 +1652,10 @@
 		{
 			"trigger": "Glalitite\tItems",
 			"contents": "Glalitite"
+		},
+		{
+			"trigger": "Gold Bottle Cap\tItems",
+			"contents": "Gold Bottle Cap"
 		},
 		{
 			"trigger": "Grass Gem\tItems",
@@ -1502,6 +1726,10 @@
 			"contents": "Heavy Ball"
 		},
 		{
+			"trigger": "Heavy-Duty Boots\tItems",
+			"contents": "Heavy-Duty Boots"
+		},
+		{
 			"trigger": "Helix Fossil\tItems",
 			"contents": "Helix Fossil"
 		},
@@ -1528,6 +1756,10 @@
 		{
 			"trigger": "Ice Memory\tItems",
 			"contents": "Ice Memory"
+		},
+		{
+			"trigger": "Ice Stone\tItems",
+			"contents": "Ice Stone"
 		},
 		{
 			"trigger": "Icicle Plate\tItems",
@@ -1562,6 +1794,10 @@
 			"contents": "Jaboca Berry"
 		},
 		{
+			"trigger": "Jaw Fossil\tItems",
+			"contents": "Jaw Fossil"
+		},
+		{
 			"trigger": "Kasib Berry\tItems",
 			"contents": "Kasib Berry"
 		},
@@ -1586,6 +1822,10 @@
 			"contents": "King's Rock"
 		},
 		{
+			"trigger": "Kommonium Z\tItems",
+			"contents": "Kommonium Z"
+		},
+		{
 			"trigger": "Lagging Tail\tItems",
 			"contents": "Lagging Tail"
 		},
@@ -1604,6 +1844,14 @@
 		{
 			"trigger": "Lax Incense\tItems",
 			"contents": "Lax Incense"
+		},
+		{
+			"trigger": "Leaf Stone\tItems",
+			"contents": "Leaf Stone"
+		},
+		{
+			"trigger": "Leek\tItems",
+			"contents": "Leek"
 		},
 		{
 			"trigger": "Leftovers\tItems",
@@ -1642,6 +1890,10 @@
 			"contents": "Love Ball"
 		},
 		{
+			"trigger": "Love Sweet\tItems",
+			"contents": "Love Sweet"
+		},
+		{
 			"trigger": "Lucarionite\tItems",
 			"contents": "Lucarionite"
 		},
@@ -1658,6 +1910,10 @@
 			"contents": "Luminous Moss"
 		},
 		{
+			"trigger": "Lunalium Z\tItems",
+			"contents": "Lunalium Z"
+		},
+		{
 			"trigger": "Lure Ball\tItems",
 			"contents": "Lure Ball"
 		},
@@ -1670,8 +1926,16 @@
 			"contents": "Luxury Ball"
 		},
 		{
+			"trigger": "Lycanium Z\tItems",
+			"contents": "Lycanium Z"
+		},
+		{
 			"trigger": "Macho Brace\tItems",
 			"contents": "Macho Brace"
+		},
+		{
+			"trigger": "Magmarizer\tItems",
+			"contents": "Magmarizer"
 		},
 		{
 			"trigger": "Magnet\tItems",
@@ -1754,6 +2018,10 @@
 			"contents": "Micle Berry"
 		},
 		{
+			"trigger": "Mimikium Z\tItems",
+			"contents": "Mimikium Z"
+		},
+		{
 			"trigger": "Mind Plate\tItems",
 			"contents": "Mind Plate"
 		},
@@ -1768,6 +2036,10 @@
 		{
 			"trigger": "Moon Ball\tItems",
 			"contents": "Moon Ball"
+		},
+		{
+			"trigger": "Moon Stone\tItems",
+			"contents": "Moon Stone"
 		},
 		{
 			"trigger": "Muscle Band\tItems",
@@ -1820,6 +2092,10 @@
 		{
 			"trigger": "Oran Berry\tItems",
 			"contents": "Oran Berry"
+		},
+		{
+			"trigger": "Oval Stone\tItems",
+			"contents": "Oval Stone"
 		},
 		{
 			"trigger": "Pamtre Berry\tItems",
@@ -1938,8 +2214,16 @@
 			"contents": "Primarium Z"
 		},
 		{
+			"trigger": "Prism Scale\tItems",
+			"contents": "Prism Scale"
+		},
+		{
 			"trigger": "Protective Pads\tItems",
 			"contents": "Protective Pads"
+		},
+		{
+			"trigger": "Protector\tItems",
+			"contents": "Protector"
 		},
 		{
 			"trigger": "Psychic Gem\tItems",
@@ -1998,6 +2282,10 @@
 			"contents": "Razz Berry"
 		},
 		{
+			"trigger": "Reaper Cloth\tItems",
+			"contents": "Reaper Cloth"
+		},
+		{
 			"trigger": "Red Card\tItems",
 			"contents": "Red Card"
 		},
@@ -2008,6 +2296,10 @@
 		{
 			"trigger": "Repeat Ball\tItems",
 			"contents": "Repeat Ball"
+		},
+		{
+			"trigger": "Ribbon Sweet\tItems",
+			"contents": "Ribbon Sweet"
 		},
 		{
 			"trigger": "Rindo Berry\tItems",
@@ -2038,6 +2330,10 @@
 			"contents": "Rocky Helmet"
 		},
 		{
+			"trigger": "Room Service\tItems",
+			"contents": "Room Service"
+		},
+		{
 			"trigger": "Root Fossil\tItems",
 			"contents": "Root Fossil"
 		},
@@ -2054,8 +2350,20 @@
 			"contents": "Rowap Berry"
 		},
 		{
+			"trigger": "Rusted Shield\tItems",
+			"contents": "Rusted Shield"
+		},
+		{
+			"trigger": "Rusted Sword\tItems",
+			"contents": "Rusted Sword"
+		},
+		{
 			"trigger": "Sablenite\tItems",
 			"contents": "Sablenite"
+		},
+		{
+			"trigger": "Sachet\tItems",
+			"contents": "Sachet"
 		},
 		{
 			"trigger": "Safari Ball\tItems",
@@ -2064,6 +2372,10 @@
 		{
 			"trigger": "Safety Goggles\tItems",
 			"contents": "Safety Goggles"
+		},
+		{
+			"trigger": "Sail Fossil\tItems",
+			"contents": "Sail Fossil"
 		},
 		{
 			"trigger": "Salac Berry\tItems",
@@ -2106,6 +2418,10 @@
 			"contents": "Shell Bell"
 		},
 		{
+			"trigger": "Shiny Stone\tItems",
+			"contents": "Shiny Stone"
+		},
+		{
 			"trigger": "Shock Drive\tItems",
 			"contents": "Shock Drive"
 		},
@@ -2118,8 +2434,8 @@
 			"contents": "Silk Scarf"
 		},
 		{
-			"trigger": "SilverPowder\tItems",
-			"contents": "SilverPowder"
+			"trigger": "Silver Powder\tItems",
+			"contents": "Silver Powder"
 		},
 		{
 			"trigger": "Sitrus Berry\tItems",
@@ -2154,6 +2470,10 @@
 			"contents": "Soft Sand"
 		},
 		{
+			"trigger": "Solganium Z\tItems",
+			"contents": "Solganium Z"
+		},
+		{
 			"trigger": "Soul Dew\tItems",
 			"contents": "Soul Dew"
 		},
@@ -2180,6 +2500,10 @@
 		{
 			"trigger": "Starf Berry\tItems",
 			"contents": "Starf Berry"
+		},
+		{
+			"trigger": "Star Sweet\tItems",
+			"contents": "Star Sweet"
 		},
 		{
 			"trigger": "Steelixite\tItems",
@@ -2210,8 +2534,20 @@
 			"contents": "Stone Plate"
 		},
 		{
+			"trigger": "Strawberry Sweet\tItems",
+			"contents": "Strawberry Sweet"
+		},
+		{
+			"trigger": "Sun Stone\tItems",
+			"contents": "Sun Stone"
+		},
+		{
 			"trigger": "Swampertite\tItems",
 			"contents": "Swampertite"
+		},
+		{
+			"trigger": "Sweet Apple\tItems",
+			"contents": "Sweet Apple"
 		},
 		{
 			"trigger": "Tamato Berry\tItems",
@@ -2226,12 +2562,24 @@
 			"contents": "Tapunium Z"
 		},
 		{
+			"trigger": "Tart Apple\tItems",
+			"contents": "Tart Apple"
+		},
+		{
 			"trigger": "Terrain Extender\tItems",
 			"contents": "Terrain Extender"
 		},
 		{
 			"trigger": "Thick Club\tItems",
 			"contents": "Thick Club"
+		},
+		{
+			"trigger": "Throat Spray\tItems",
+			"contents": "Throat Spray"
+		},
+		{
+			"trigger": "Thunder Stone\tItems",
+			"contents": "Thunder Stone"
 		},
 		{
 			"trigger": "Timer Ball\tItems",
@@ -2246,6 +2594,406 @@
 			"contents": "Toxic Plate"
 		},
 		{
+			"trigger": "TR00\tItems",
+			"contents": "TR00"
+		},
+		{
+			"trigger": "TR01\tItems",
+			"contents": "TR01"
+		},
+		{
+			"trigger": "TR02\tItems",
+			"contents": "TR02"
+		},
+		{
+			"trigger": "TR03\tItems",
+			"contents": "TR03"
+		},
+		{
+			"trigger": "TR04\tItems",
+			"contents": "TR04"
+		},
+		{
+			"trigger": "TR05\tItems",
+			"contents": "TR05"
+		},
+		{
+			"trigger": "TR06\tItems",
+			"contents": "TR06"
+		},
+		{
+			"trigger": "TR07\tItems",
+			"contents": "TR07"
+		},
+		{
+			"trigger": "TR08\tItems",
+			"contents": "TR08"
+		},
+		{
+			"trigger": "TR09\tItems",
+			"contents": "TR09"
+		},
+		{
+			"trigger": "TR10\tItems",
+			"contents": "TR10"
+		},
+		{
+			"trigger": "TR11\tItems",
+			"contents": "TR11"
+		},
+		{
+			"trigger": "TR12\tItems",
+			"contents": "TR12"
+		},
+		{
+			"trigger": "TR13\tItems",
+			"contents": "TR13"
+		},
+		{
+			"trigger": "TR14\tItems",
+			"contents": "TR14"
+		},
+		{
+			"trigger": "TR15\tItems",
+			"contents": "TR15"
+		},
+		{
+			"trigger": "TR16\tItems",
+			"contents": "TR16"
+		},
+		{
+			"trigger": "TR17\tItems",
+			"contents": "TR17"
+		},
+		{
+			"trigger": "TR18\tItems",
+			"contents": "TR18"
+		},
+		{
+			"trigger": "TR19\tItems",
+			"contents": "TR19"
+		},
+		{
+			"trigger": "TR20\tItems",
+			"contents": "TR20"
+		},
+		{
+			"trigger": "TR21\tItems",
+			"contents": "TR21"
+		},
+		{
+			"trigger": "TR22\tItems",
+			"contents": "TR22"
+		},
+		{
+			"trigger": "TR23\tItems",
+			"contents": "TR23"
+		},
+		{
+			"trigger": "TR24\tItems",
+			"contents": "TR24"
+		},
+		{
+			"trigger": "TR25\tItems",
+			"contents": "TR25"
+		},
+		{
+			"trigger": "TR26\tItems",
+			"contents": "TR26"
+		},
+		{
+			"trigger": "TR27\tItems",
+			"contents": "TR27"
+		},
+		{
+			"trigger": "TR28\tItems",
+			"contents": "TR28"
+		},
+		{
+			"trigger": "TR29\tItems",
+			"contents": "TR29"
+		},
+		{
+			"trigger": "TR30\tItems",
+			"contents": "TR30"
+		},
+		{
+			"trigger": "TR31\tItems",
+			"contents": "TR31"
+		},
+		{
+			"trigger": "TR32\tItems",
+			"contents": "TR32"
+		},
+		{
+			"trigger": "TR33\tItems",
+			"contents": "TR33"
+		},
+		{
+			"trigger": "TR34\tItems",
+			"contents": "TR34"
+		},
+		{
+			"trigger": "TR35\tItems",
+			"contents": "TR35"
+		},
+		{
+			"trigger": "TR36\tItems",
+			"contents": "TR36"
+		},
+		{
+			"trigger": "TR37\tItems",
+			"contents": "TR37"
+		},
+		{
+			"trigger": "TR38\tItems",
+			"contents": "TR38"
+		},
+		{
+			"trigger": "TR39\tItems",
+			"contents": "TR39"
+		},
+		{
+			"trigger": "TR40\tItems",
+			"contents": "TR40"
+		},
+		{
+			"trigger": "TR41\tItems",
+			"contents": "TR41"
+		},
+		{
+			"trigger": "TR42\tItems",
+			"contents": "TR42"
+		},
+		{
+			"trigger": "TR43\tItems",
+			"contents": "TR43"
+		},
+		{
+			"trigger": "TR44\tItems",
+			"contents": "TR44"
+		},
+		{
+			"trigger": "TR45\tItems",
+			"contents": "TR45"
+		},
+		{
+			"trigger": "TR46\tItems",
+			"contents": "TR46"
+		},
+		{
+			"trigger": "TR47\tItems",
+			"contents": "TR47"
+		},
+		{
+			"trigger": "TR48\tItems",
+			"contents": "TR48"
+		},
+		{
+			"trigger": "TR49\tItems",
+			"contents": "TR49"
+		},
+		{
+			"trigger": "TR50\tItems",
+			"contents": "TR50"
+		},
+		{
+			"trigger": "TR51\tItems",
+			"contents": "TR51"
+		},
+		{
+			"trigger": "TR52\tItems",
+			"contents": "TR52"
+		},
+		{
+			"trigger": "TR53\tItems",
+			"contents": "TR53"
+		},
+		{
+			"trigger": "TR54\tItems",
+			"contents": "TR54"
+		},
+		{
+			"trigger": "TR55\tItems",
+			"contents": "TR55"
+		},
+		{
+			"trigger": "TR56\tItems",
+			"contents": "TR56"
+		},
+		{
+			"trigger": "TR57\tItems",
+			"contents": "TR57"
+		},
+		{
+			"trigger": "TR58\tItems",
+			"contents": "TR58"
+		},
+		{
+			"trigger": "TR59\tItems",
+			"contents": "TR59"
+		},
+		{
+			"trigger": "TR60\tItems",
+			"contents": "TR60"
+		},
+		{
+			"trigger": "TR61\tItems",
+			"contents": "TR61"
+		},
+		{
+			"trigger": "TR62\tItems",
+			"contents": "TR62"
+		},
+		{
+			"trigger": "TR63\tItems",
+			"contents": "TR63"
+		},
+		{
+			"trigger": "TR64\tItems",
+			"contents": "TR64"
+		},
+		{
+			"trigger": "TR65\tItems",
+			"contents": "TR65"
+		},
+		{
+			"trigger": "TR66\tItems",
+			"contents": "TR66"
+		},
+		{
+			"trigger": "TR67\tItems",
+			"contents": "TR67"
+		},
+		{
+			"trigger": "TR68\tItems",
+			"contents": "TR68"
+		},
+		{
+			"trigger": "TR69\tItems",
+			"contents": "TR69"
+		},
+		{
+			"trigger": "TR70\tItems",
+			"contents": "TR70"
+		},
+		{
+			"trigger": "TR71\tItems",
+			"contents": "TR71"
+		},
+		{
+			"trigger": "TR72\tItems",
+			"contents": "TR72"
+		},
+		{
+			"trigger": "TR73\tItems",
+			"contents": "TR73"
+		},
+		{
+			"trigger": "TR74\tItems",
+			"contents": "TR74"
+		},
+		{
+			"trigger": "TR75\tItems",
+			"contents": "TR75"
+		},
+		{
+			"trigger": "TR76\tItems",
+			"contents": "TR76"
+		},
+		{
+			"trigger": "TR77\tItems",
+			"contents": "TR77"
+		},
+		{
+			"trigger": "TR78\tItems",
+			"contents": "TR78"
+		},
+		{
+			"trigger": "TR79\tItems",
+			"contents": "TR79"
+		},
+		{
+			"trigger": "TR80\tItems",
+			"contents": "TR80"
+		},
+		{
+			"trigger": "TR81\tItems",
+			"contents": "TR81"
+		},
+		{
+			"trigger": "TR82\tItems",
+			"contents": "TR82"
+		},
+		{
+			"trigger": "TR83\tItems",
+			"contents": "TR83"
+		},
+		{
+			"trigger": "TR84\tItems",
+			"contents": "TR84"
+		},
+		{
+			"trigger": "TR85\tItems",
+			"contents": "TR85"
+		},
+		{
+			"trigger": "TR86\tItems",
+			"contents": "TR86"
+		},
+		{
+			"trigger": "TR87\tItems",
+			"contents": "TR87"
+		},
+		{
+			"trigger": "TR88\tItems",
+			"contents": "TR88"
+		},
+		{
+			"trigger": "TR89\tItems",
+			"contents": "TR89"
+		},
+		{
+			"trigger": "TR90\tItems",
+			"contents": "TR90"
+		},
+		{
+			"trigger": "TR91\tItems",
+			"contents": "TR91"
+		},
+		{
+			"trigger": "TR92\tItems",
+			"contents": "TR92"
+		},
+		{
+			"trigger": "TR93\tItems",
+			"contents": "TR93"
+		},
+		{
+			"trigger": "TR94\tItems",
+			"contents": "TR94"
+		},
+		{
+			"trigger": "TR95\tItems",
+			"contents": "TR95"
+		},
+		{
+			"trigger": "TR96\tItems",
+			"contents": "TR96"
+		},
+		{
+			"trigger": "TR97\tItems",
+			"contents": "TR97"
+		},
+		{
+			"trigger": "TR98\tItems",
+			"contents": "TR98"
+		},
+		{
+			"trigger": "TR99\tItems",
+			"contents": "TR99"
+		},
+		{
 			"trigger": "Twisted Spoon\tItems",
 			"contents": "Twisted Spoon"
 		},
@@ -2256,6 +3004,18 @@
 		{
 			"trigger": "Ultra Ball\tItems",
 			"contents": "Ultra Ball"
+		},
+		{
+			"trigger": "Ultranecrozium Z\tItems",
+			"contents": "Ultranecrozium Z"
+		},
+		{
+			"trigger": "Up-Grade\tItems",
+			"contents": "Up-Grade"
+		},
+		{
+			"trigger": "Utility Umbrella\tItems",
+			"contents": "Utility Umbrella"
 		},
 		{
 			"trigger": "Venusaurite\tItems",
@@ -2272,6 +3032,10 @@
 		{
 			"trigger": "Water Memory\tItems",
 			"contents": "Water Memory"
+		},
+		{
+			"trigger": "Water Stone\tItems",
+			"contents": "Water Stone"
 		},
 		{
 			"trigger": "Waterium Z\tItems",
@@ -2292,6 +3056,10 @@
 		{
 			"trigger": "Wepear Berry\tItems",
 			"contents": "Wepear Berry"
+		},
+		{
+			"trigger": "Whipped Dream\tItems",
+			"contents": "Whipped Dream"
 		},
 		{
 			"trigger": "White Herb\tItems",
@@ -2336,10 +3104,6 @@
 		{
 			"trigger": "Burnt Berry\tItems",
 			"contents": "Burnt Berry"
-		},
-		{
-			"trigger": "Dragon Scale\tItems",
-			"contents": "Dragon Scale"
 		},
 		{
 			"trigger": "Gold Berry\tItems",
@@ -2462,6 +3226,10 @@
 			"contents": "Ancient Power"
 		},
 		{
+			"trigger": "Apple Acid\tMoves",
+			"contents": "Apple Acid"
+		},
+		{
 			"trigger": "Aqua Jet\tMoves",
 			"contents": "Aqua Jet"
 		},
@@ -2498,6 +3266,10 @@
 			"contents": "Astonish"
 		},
 		{
+			"trigger": "Astral Barrage\tMoves",
+			"contents": "Astral Barrage"
+		},
+		{
 			"trigger": "Attack Order\tMoves",
 			"contents": "Attack Order"
 		},
@@ -2508,6 +3280,10 @@
 		{
 			"trigger": "Aura Sphere\tMoves",
 			"contents": "Aura Sphere"
+		},
+		{
+			"trigger": "Aura Wheel\tMoves",
+			"contents": "Aura Wheel"
 		},
 		{
 			"trigger": "Aurora Beam\tMoves",
@@ -2528,6 +3304,10 @@
 		{
 			"trigger": "Baby-Doll Eyes\tMoves",
 			"contents": "Baby-Doll Eyes"
+		},
+		{
+			"trigger": "Baddy Bad\tMoves",
+			"contents": "Baddy Bad"
 		},
 		{
 			"trigger": "Baneful Bunker\tMoves",
@@ -2552,6 +3332,14 @@
 		{
 			"trigger": "Beat Up\tMoves",
 			"contents": "Beat Up"
+		},
+		{
+			"trigger": "Behemoth Bash\tMoves",
+			"contents": "Behemoth Bash"
+		},
+		{
+			"trigger": "Behemoth Blade\tMoves",
+			"contents": "Behemoth Blade"
 		},
 		{
 			"trigger": "Belch\tMoves",
@@ -2606,8 +3394,16 @@
 			"contents": "Blue Flare"
 		},
 		{
+			"trigger": "Body Press\tMoves",
+			"contents": "Body Press"
+		},
+		{
 			"trigger": "Body Slam\tMoves",
 			"contents": "Body Slam"
+		},
+		{
+			"trigger": "Bolt Beak\tMoves",
+			"contents": "Bolt Beak"
 		},
 		{
 			"trigger": "Bolt Strike\tMoves",
@@ -2618,12 +3414,12 @@
 			"contents": "Bone Club"
 		},
 		{
-			"trigger": "Bone Rush\tMoves",
-			"contents": "Bone Rush"
-		},
-		{
 			"trigger": "Bonemerang\tMoves",
 			"contents": "Bonemerang"
+		},
+		{
+			"trigger": "Bone Rush\tMoves",
+			"contents": "Bone Rush"
 		},
 		{
 			"trigger": "Boomburst\tMoves",
@@ -2634,8 +3430,20 @@
 			"contents": "Bounce"
 		},
 		{
+			"trigger": "Bouncy Bubble\tMoves",
+			"contents": "Bouncy Bubble"
+		},
+		{
+			"trigger": "Branch Poke\tMoves",
+			"contents": "Branch Poke"
+		},
+		{
 			"trigger": "Brave Bird\tMoves",
 			"contents": "Brave Bird"
+		},
+		{
+			"trigger": "Breaking Swipe\tMoves",
+			"contents": "Breaking Swipe"
 		},
 		{
 			"trigger": "Breakneck Blitz\tMoves",
@@ -2686,8 +3494,16 @@
 			"contents": "Bullet Seed"
 		},
 		{
+			"trigger": "Burning Jealousy\tMoves",
+			"contents": "Burning Jealousy"
+		},
+		{
 			"trigger": "Burn Up\tMoves",
 			"contents": "Burn Up"
+		},
+		{
+			"trigger": "Buzzy Buzz\tMoves",
+			"contents": "Buzzy Buzz"
 		},
 		{
 			"trigger": "Calm Mind\tMoves",
@@ -2742,12 +3558,24 @@
 			"contents": "Clanging Scales"
 		},
 		{
+			"trigger": "Clangorous Soul\tMoves",
+			"contents": "Clangorous Soul"
+		},
+		{
+			"trigger": "Clangorous Soulblaze\tMoves",
+			"contents": "Clangorous Soulblaze"
+		},
+		{
 			"trigger": "Clear Smog\tMoves",
 			"contents": "Clear Smog"
 		},
 		{
 			"trigger": "Close Combat\tMoves",
 			"contents": "Close Combat"
+		},
+		{
+			"trigger": "Coaching\tMoves",
+			"contents": "Coaching"
 		},
 		{
 			"trigger": "Coil\tMoves",
@@ -2798,6 +3626,10 @@
 			"contents": "Corkscrew Crash"
 		},
 		{
+			"trigger": "Corrosive Gas\tMoves",
+			"contents": "Corrosive Gas"
+		},
+		{
 			"trigger": "Cosmic Power\tMoves",
 			"contents": "Cosmic Power"
 		},
@@ -2812,6 +3644,10 @@
 		{
 			"trigger": "Counter\tMoves",
 			"contents": "Counter"
+		},
+		{
+			"trigger": "Court Change\tMoves",
+			"contents": "Court Change"
 		},
 		{
 			"trigger": "Covet\tMoves",
@@ -2854,6 +3690,10 @@
 			"contents": "Cut"
 		},
 		{
+			"trigger": "Darkest Lariat\tMoves",
+			"contents": "Darkest Lariat"
+		},
+		{
 			"trigger": "Dark Pulse\tMoves",
 			"contents": "Dark Pulse"
 		},
@@ -2862,12 +3702,12 @@
 			"contents": "Dark Void"
 		},
 		{
-			"trigger": "Darkest Lariat\tMoves",
-			"contents": "Darkest Lariat"
-		},
-		{
 			"trigger": "Dazzling Gleam\tMoves",
 			"contents": "Dazzling Gleam"
+		},
+		{
+			"trigger": "Decorate\tMoves",
+			"contents": "Decorate"
 		},
 		{
 			"trigger": "Defend Order\tMoves",
@@ -2934,6 +3774,10 @@
 			"contents": "Double Hit"
 		},
 		{
+			"trigger": "Double Iron Bash\tMoves",
+			"contents": "Double Iron Bash"
+		},
+		{
 			"trigger": "Double Kick\tMoves",
 			"contents": "Double Kick"
 		},
@@ -2964,6 +3808,14 @@
 		{
 			"trigger": "Dragon Dance\tMoves",
 			"contents": "Dragon Dance"
+		},
+		{
+			"trigger": "Dragon Darts\tMoves",
+			"contents": "Dragon Darts"
+		},
+		{
+			"trigger": "Dragon Energy\tMoves",
+			"contents": "Dragon Energy"
 		},
 		{
 			"trigger": "Dragon Hammer\tMoves",
@@ -3006,8 +3858,20 @@
 			"contents": "Drill Run"
 		},
 		{
+			"trigger": "Drum Beating\tMoves",
+			"contents": "Drum Beating"
+		},
+		{
 			"trigger": "Dual Chop\tMoves",
 			"contents": "Dual Chop"
+		},
+		{
+			"trigger": "Dual Wingbeat\tMoves",
+			"contents": "Dual Wingbeat"
+		},
+		{
+			"trigger": "Dynamax Cannon\tMoves",
+			"contents": "Dynamax Cannon"
 		},
 		{
 			"trigger": "Dynamic Punch\tMoves",
@@ -3028,6 +3892,10 @@
 		{
 			"trigger": "Eerie Impulse\tMoves",
 			"contents": "Eerie Impulse"
+		},
+		{
+			"trigger": "Eerie Spell\tMoves",
+			"contents": "Eerie Spell"
 		},
 		{
 			"trigger": "Egg Bomb\tMoves",
@@ -3082,6 +3950,14 @@
 			"contents": "Eruption"
 		},
 		{
+			"trigger": "Eternabeam\tMoves",
+			"contents": "Eternabeam"
+		},
+		{
+			"trigger": "Expanding Force\tMoves",
+			"contents": "Expanding Force"
+		},
+		{
 			"trigger": "Explosion\tMoves",
 			"contents": "Explosion"
 		},
@@ -3102,10 +3978,6 @@
 			"contents": "Facade"
 		},
 		{
-			"trigger": "Feint Attack\tMoves",
-			"contents": "Feint Attack"
-		},
-		{
 			"trigger": "Fairy Lock\tMoves",
 			"contents": "Fairy Lock"
 		},
@@ -3122,6 +3994,10 @@
 			"contents": "Fake Tears"
 		},
 		{
+			"trigger": "False Surrender\tMoves",
+			"contents": "False Surrender"
+		},
+		{
 			"trigger": "False Swipe\tMoves",
 			"contents": "False Swipe"
 		},
@@ -3134,12 +4010,20 @@
 			"contents": "Feint"
 		},
 		{
+			"trigger": "Feint Attack\tMoves",
+			"contents": "Feint Attack"
+		},
+		{
 			"trigger": "Fell Stinger\tMoves",
 			"contents": "Fell Stinger"
 		},
 		{
 			"trigger": "Fiery Dance\tMoves",
 			"contents": "Fiery Dance"
+		},
+		{
+			"trigger": "Fiery Wrath\tMoves",
+			"contents": "Fiery Wrath"
 		},
 		{
 			"trigger": "Final Gambit\tMoves",
@@ -3172,6 +4056,10 @@
 		{
 			"trigger": "First Impression\tMoves",
 			"contents": "First Impression"
+		},
+		{
+			"trigger": "Fishious Rend\tMoves",
+			"contents": "Fishious Rend"
 		},
 		{
 			"trigger": "Fissure\tMoves",
@@ -3220,6 +4108,14 @@
 		{
 			"trigger": "Fling\tMoves",
 			"contents": "Fling"
+		},
+		{
+			"trigger": "Flip Turn\tMoves",
+			"contents": "Flip Turn"
+		},
+		{
+			"trigger": "Floaty Fall\tMoves",
+			"contents": "Floaty Fall"
 		},
 		{
 			"trigger": "Floral Healing\tMoves",
@@ -3276,6 +4172,14 @@
 		{
 			"trigger": "Freeze Shock\tMoves",
 			"contents": "Freeze Shock"
+		},
+		{
+			"trigger": "Freezing Glare\tMoves",
+			"contents": "Freezing Glare"
+		},
+		{
+			"trigger": "Freezy Frost\tMoves",
+			"contents": "Freezy Frost"
 		},
 		{
 			"trigger": "Frenzy Plant\tMoves",
@@ -3346,12 +4250,152 @@
 			"contents": "Gigavolt Havoc"
 		},
 		{
+			"trigger": "Glacial Lance\tMoves",
+			"contents": "Glacial Lance"
+		},
+		{
 			"trigger": "Glaciate\tMoves",
 			"contents": "Glaciate"
 		},
 		{
 			"trigger": "Glare\tMoves",
 			"contents": "Glare"
+		},
+		{
+			"trigger": "Glitzy Glow\tMoves",
+			"contents": "Glitzy Glow"
+		},
+		{
+			"trigger": "G-Max Befuddle\tMoves",
+			"contents": "G-Max Befuddle"
+		},
+		{
+			"trigger": "G-Max Cannonade\tMoves",
+			"contents": "G-Max Cannonade"
+		},
+		{
+			"trigger": "G-Max Centiferno\tMoves",
+			"contents": "G-Max Centiferno"
+		},
+		{
+			"trigger": "G-Max Chi Strike\tMoves",
+			"contents": "G-Max Chi Strike"
+		},
+		{
+			"trigger": "G-Max Cuddle\tMoves",
+			"contents": "G-Max Cuddle"
+		},
+		{
+			"trigger": "G-Max Depletion\tMoves",
+			"contents": "G-Max Depletion"
+		},
+		{
+			"trigger": "G-Max Drum Solo\tMoves",
+			"contents": "G-Max Drum Solo"
+		},
+		{
+			"trigger": "G-Max Finale\tMoves",
+			"contents": "G-Max Finale"
+		},
+		{
+			"trigger": "G-Max Fireball\tMoves",
+			"contents": "G-Max Fireball"
+		},
+		{
+			"trigger": "G-Max Foam Burst\tMoves",
+			"contents": "G-Max Foam Burst"
+		},
+		{
+			"trigger": "G-Max Gold Rush\tMoves",
+			"contents": "G-Max Gold Rush"
+		},
+		{
+			"trigger": "G-Max Gravitas\tMoves",
+			"contents": "G-Max Gravitas"
+		},
+		{
+			"trigger": "G-Max Hydrosnipe\tMoves",
+			"contents": "G-Max Hydrosnipe"
+		},
+		{
+			"trigger": "G-Max Malodor\tMoves",
+			"contents": "G-Max Malodor"
+		},
+		{
+			"trigger": "G-Max Meltdown\tMoves",
+			"contents": "G-Max Meltdown"
+		},
+		{
+			"trigger": "G-Max One Blow\tMoves",
+			"contents": "G-Max One Blow"
+		},
+		{
+			"trigger": "G-Max Rapid Flow\tMoves",
+			"contents": "G-Max Rapid Flow"
+		},
+		{
+			"trigger": "G-Max Replenish\tMoves",
+			"contents": "G-Max Replenish"
+		},
+		{
+			"trigger": "G-Max Resonance\tMoves",
+			"contents": "G-Max Resonance"
+		},
+		{
+			"trigger": "G-Max Sandblast\tMoves",
+			"contents": "G-Max Sandblast"
+		},
+		{
+			"trigger": "G-Max Smite\tMoves",
+			"contents": "G-Max Smite"
+		},
+		{
+			"trigger": "G-Max Snooze\tMoves",
+			"contents": "G-Max Snooze"
+		},
+		{
+			"trigger": "G-Max Steelsurge\tMoves",
+			"contents": "G-Max Steelsurge"
+		},
+		{
+			"trigger": "G-Max Stonesurge\tMoves",
+			"contents": "G-Max Stonesurge"
+		},
+		{
+			"trigger": "G-Max Stun Shock\tMoves",
+			"contents": "G-Max Stun Shock"
+		},
+		{
+			"trigger": "G-Max Sweetness\tMoves",
+			"contents": "G-Max Sweetness"
+		},
+		{
+			"trigger": "G-Max Tartness\tMoves",
+			"contents": "G-Max Tartness"
+		},
+		{
+			"trigger": "G-Max Terror\tMoves",
+			"contents": "G-Max Terror"
+		},
+		{
+			"trigger": "G-Max Vine Lash\tMoves",
+			"contents": "G-Max Vine Lash"
+		},
+		{
+			"trigger": "G-Max Volcalith\tMoves",
+			"contents": "G-Max Volcalith"
+		},
+		{
+			"trigger": "G-Max Volt Crash\tMoves",
+			"contents": "G-Max Volt Crash"
+		},
+		{
+			"trigger": "G-Max Wildfire\tMoves",
+			"contents": "G-Max Wildfire"
+		},
+		{
+			"trigger": "G-Max Wind Rage\tMoves",
+			"contents": "G-Max Wind Rage"
 		},
 		{
 			"trigger": "Grass Knot\tMoves",
@@ -3366,8 +4410,16 @@
 			"contents": "Grass Whistle"
 		},
 		{
+			"trigger": "Grassy Glide\tMoves",
+			"contents": "Grassy Glide"
+		},
+		{
 			"trigger": "Grassy Terrain\tMoves",
 			"contents": "Grassy Terrain"
+		},
+		{
+			"trigger": "Grav Apple\tMoves",
+			"contents": "Grav Apple"
 		},
 		{
 			"trigger": "Gravity\tMoves",
@@ -3386,16 +4438,16 @@
 			"contents": "Grudge"
 		},
 		{
+			"trigger": "Guardian of Alola\tMoves",
+			"contents": "Guardian of Alola"
+		},
+		{
 			"trigger": "Guard Split\tMoves",
 			"contents": "Guard Split"
 		},
 		{
 			"trigger": "Guard Swap\tMoves",
 			"contents": "Guard Swap"
-		},
-		{
-			"trigger": "Guardian of Alola\tMoves",
-			"contents": "Guardian of Alola"
 		},
 		{
 			"trigger": "Guillotine\tMoves",
@@ -3434,16 +4486,16 @@
 			"contents": "Haze"
 		},
 		{
+			"trigger": "Headbutt\tMoves",
+			"contents": "Headbutt"
+		},
+		{
 			"trigger": "Head Charge\tMoves",
 			"contents": "Head Charge"
 		},
 		{
 			"trigger": "Head Smash\tMoves",
 			"contents": "Head Smash"
-		},
-		{
-			"trigger": "Headbutt\tMoves",
-			"contents": "Headbutt"
 		},
 		{
 			"trigger": "Heal Bell\tMoves",
@@ -3454,16 +4506,16 @@
 			"contents": "Heal Block"
 		},
 		{
+			"trigger": "Healing Wish\tMoves",
+			"contents": "Healing Wish"
+		},
+		{
 			"trigger": "Heal Order\tMoves",
 			"contents": "Heal Order"
 		},
 		{
 			"trigger": "Heal Pulse\tMoves",
 			"contents": "Heal Pulse"
-		},
-		{
-			"trigger": "Healing Wish\tMoves",
-			"contents": "Healing Wish"
 		},
 		{
 			"trigger": "Heart Stamp\tMoves",
@@ -3722,12 +4774,20 @@
 			"contents": "Iron Tail"
 		},
 		{
+			"trigger": "Jaw Lock\tMoves",
+			"contents": "Jaw Lock"
+		},
+		{
 			"trigger": "Judgment\tMoves",
 			"contents": "Judgment"
 		},
 		{
 			"trigger": "Jump Kick\tMoves",
 			"contents": "Jump Kick"
+		},
+		{
+			"trigger": "Jungle Healing\tMoves",
+			"contents": "Jungle Healing"
 		},
 		{
 			"trigger": "Karate Chop\tMoves",
@@ -3754,12 +4814,20 @@
 			"contents": "Laser Focus"
 		},
 		{
+			"trigger": "Lash Out\tMoves",
+			"contents": "Lash Out"
+		},
+		{
 			"trigger": "Last Resort\tMoves",
 			"contents": "Last Resort"
 		},
 		{
 			"trigger": "Lava Plume\tMoves",
 			"contents": "Lava Plume"
+		},
+		{
+			"trigger": "Leafage\tMoves",
+			"contents": "Leafage"
 		},
 		{
 			"trigger": "Leaf Blade\tMoves",
@@ -3774,10 +4842,6 @@
 			"contents": "Leaf Tornado"
 		},
 		{
-			"trigger": "Leafage\tMoves",
-			"contents": "Leafage"
-		},
-		{
 			"trigger": "Leech Life\tMoves",
 			"contents": "Leech Life"
 		},
@@ -3790,8 +4854,16 @@
 			"contents": "Leer"
 		},
 		{
+			"trigger": "Let's Snuggle Forever\tMoves",
+			"contents": "Let's Snuggle Forever"
+		},
+		{
 			"trigger": "Lick\tMoves",
 			"contents": "Lick"
+		},
+		{
+			"trigger": "Life Dew\tMoves",
+			"contents": "Life Dew"
 		},
 		{
 			"trigger": "Light of Ruin\tMoves",
@@ -3800,6 +4872,10 @@
 		{
 			"trigger": "Light Screen\tMoves",
 			"contents": "Light Screen"
+		},
+		{
+			"trigger": "Light That Burns the Sky\tMoves",
+			"contents": "Light That Burns the Sky"
 		},
 		{
 			"trigger": "Liquidation\tMoves",
@@ -3842,16 +4918,20 @@
 			"contents": "Mach Punch"
 		},
 		{
+			"trigger": "Magical Leaf\tMoves",
+			"contents": "Magical Leaf"
+		},
+		{
 			"trigger": "Magic Coat\tMoves",
 			"contents": "Magic Coat"
 		},
 		{
-			"trigger": "Magic Room\tMoves",
-			"contents": "Magic Room"
+			"trigger": "Magic Powder\tMoves",
+			"contents": "Magic Powder"
 		},
 		{
-			"trigger": "Magical Leaf\tMoves",
-			"contents": "Magical Leaf"
+			"trigger": "Magic Room\tMoves",
+			"contents": "Magic Room"
 		},
 		{
 			"trigger": "Magma Storm\tMoves",
@@ -3882,8 +4962,80 @@
 			"contents": "Mat Block"
 		},
 		{
-			"trigger": "Me First\tMoves",
-			"contents": "Me First"
+			"trigger": "Max Airstream\tMoves",
+			"contents": "Max Airstream"
+		},
+		{
+			"trigger": "Max Darkness\tMoves",
+			"contents": "Max Darkness"
+		},
+		{
+			"trigger": "Max Flare\tMoves",
+			"contents": "Max Flare"
+		},
+		{
+			"trigger": "Max Flutterby\tMoves",
+			"contents": "Max Flutterby"
+		},
+		{
+			"trigger": "Max Geyser\tMoves",
+			"contents": "Max Geyser"
+		},
+		{
+			"trigger": "Max Guard\tMoves",
+			"contents": "Max Guard"
+		},
+		{
+			"trigger": "Max Hailstorm\tMoves",
+			"contents": "Max Hailstorm"
+		},
+		{
+			"trigger": "Max Knuckle\tMoves",
+			"contents": "Max Knuckle"
+		},
+		{
+			"trigger": "Max Lightning\tMoves",
+			"contents": "Max Lightning"
+		},
+		{
+			"trigger": "Max Mindstorm\tMoves",
+			"contents": "Max Mindstorm"
+		},
+		{
+			"trigger": "Max Ooze\tMoves",
+			"contents": "Max Ooze"
+		},
+		{
+			"trigger": "Max Overgrowth\tMoves",
+			"contents": "Max Overgrowth"
+		},
+		{
+			"trigger": "Max Phantasm\tMoves",
+			"contents": "Max Phantasm"
+		},
+		{
+			"trigger": "Max Quake\tMoves",
+			"contents": "Max Quake"
+		},
+		{
+			"trigger": "Max Rockfall\tMoves",
+			"contents": "Max Rockfall"
+		},
+		{
+			"trigger": "Max Starfall\tMoves",
+			"contents": "Max Starfall"
+		},
+		{
+			"trigger": "Max Steelspike\tMoves",
+			"contents": "Max Steelspike"
+		},
+		{
+			"trigger": "Max Strike\tMoves",
+			"contents": "Max Strike"
+		},
+		{
+			"trigger": "Max Wyrmwind\tMoves",
+			"contents": "Max Wyrmwind"
 		},
 		{
 			"trigger": "Mean Look\tMoves",
@@ -3894,8 +5046,16 @@
 			"contents": "Meditate"
 		},
 		{
+			"trigger": "Me First\tMoves",
+			"contents": "Me First"
+		},
+		{
 			"trigger": "Mega Drain\tMoves",
 			"contents": "Mega Drain"
+		},
+		{
+			"trigger": "Megahorn\tMoves",
+			"contents": "Megahorn"
 		},
 		{
 			"trigger": "Mega Kick\tMoves",
@@ -3906,12 +5066,12 @@
 			"contents": "Mega Punch"
 		},
 		{
-			"trigger": "Megahorn\tMoves",
-			"contents": "Megahorn"
-		},
-		{
 			"trigger": "Memento\tMoves",
 			"contents": "Memento"
+		},
+		{
+			"trigger": "Menacing Moonraze Maelstrom\tMoves",
+			"contents": "Menacing Moonraze Maelstrom"
 		},
 		{
 			"trigger": "Metal Burst\tMoves",
@@ -3924,6 +5084,14 @@
 		{
 			"trigger": "Metal Sound\tMoves",
 			"contents": "Metal Sound"
+		},
+		{
+			"trigger": "Meteor Assault\tMoves",
+			"contents": "Meteor Assault"
+		},
+		{
+			"trigger": "Meteor Beam\tMoves",
+			"contents": "Meteor Beam"
 		},
 		{
 			"trigger": "Meteor Mash\tMoves",
@@ -3940,6 +5108,10 @@
 		{
 			"trigger": "Mimic\tMoves",
 			"contents": "Mimic"
+		},
+		{
+			"trigger": "Mind Blown\tMoves",
+			"contents": "Mind Blown"
 		},
 		{
 			"trigger": "Mind Reader\tMoves",
@@ -3974,6 +5146,10 @@
 			"contents": "Mist Ball"
 		},
 		{
+			"trigger": "Misty Explosion\tMoves",
+			"contents": "Misty Explosion"
+		},
+		{
 			"trigger": "Misty Terrain\tMoves",
 			"contents": "Misty Terrain"
 		},
@@ -3994,16 +5170,16 @@
 			"contents": "Morning Sun"
 		},
 		{
-			"trigger": "Mud-Slap\tMoves",
-			"contents": "Mud-Slap"
-		},
-		{
 			"trigger": "Mud Bomb\tMoves",
 			"contents": "Mud Bomb"
 		},
 		{
 			"trigger": "Mud Shot\tMoves",
 			"contents": "Mud Shot"
+		},
+		{
+			"trigger": "Mud-Slap\tMoves",
+			"contents": "Mud-Slap"
 		},
 		{
 			"trigger": "Mud Sport\tMoves",
@@ -4050,6 +5226,10 @@
 			"contents": "Night Daze"
 		},
 		{
+			"trigger": "Nightmare\tMoves",
+			"contents": "Nightmare"
+		},
+		{
 			"trigger": "Night Shade\tMoves",
 			"contents": "Night Shade"
 		},
@@ -4058,12 +5238,12 @@
 			"contents": "Night Slash"
 		},
 		{
-			"trigger": "Nightmare\tMoves",
-			"contents": "Nightmare"
-		},
-		{
 			"trigger": "Noble Roar\tMoves",
 			"contents": "Noble Roar"
+		},
+		{
+			"trigger": "No Retreat\tMoves",
+			"contents": "No Retreat"
 		},
 		{
 			"trigger": "Nuzzle\tMoves",
@@ -4074,12 +5254,20 @@
 			"contents": "Oblivion Wing"
 		},
 		{
+			"trigger": "Obstruct\tMoves",
+			"contents": "Obstruct"
+		},
+		{
 			"trigger": "Oceanic Operetta\tMoves",
 			"contents": "Oceanic Operetta"
 		},
 		{
 			"trigger": "Octazooka\tMoves",
 			"contents": "Octazooka"
+		},
+		{
+			"trigger": "Octolock\tMoves",
+			"contents": "Octolock"
 		},
 		{
 			"trigger": "Odor Sleuth\tMoves",
@@ -4098,12 +5286,20 @@
 			"contents": "Outrage"
 		},
 		{
+			"trigger": "Overdrive\tMoves",
+			"contents": "Overdrive"
+		},
+		{
 			"trigger": "Overheat\tMoves",
 			"contents": "Overheat"
 		},
 		{
 			"trigger": "Pain Split\tMoves",
 			"contents": "Pain Split"
+		},
+		{
+			"trigger": "Paleo Wave\tMoves",
+			"contents": "Paleo Wave"
 		},
 		{
 			"trigger": "Parabolic Charge\tMoves",
@@ -4114,12 +5310,12 @@
 			"contents": "Parting Shot"
 		},
 		{
-			"trigger": "Pay Day\tMoves",
-			"contents": "Pay Day"
-		},
-		{
 			"trigger": "Payback\tMoves",
 			"contents": "Payback"
+		},
+		{
+			"trigger": "Pay Day\tMoves",
+			"contents": "Pay Day"
 		},
 		{
 			"trigger": "Peck\tMoves",
@@ -4142,8 +5338,20 @@
 			"contents": "Phantom Force"
 		},
 		{
+			"trigger": "Photon Geyser\tMoves",
+			"contents": "Photon Geyser"
+		},
+		{
+			"trigger": "Pika Papow\tMoves",
+			"contents": "Pika Papow"
+		},
+		{
 			"trigger": "Pin Missile\tMoves",
 			"contents": "Pin Missile"
+		},
+		{
+			"trigger": "Plasma Fists\tMoves",
+			"contents": "Plasma Fists"
 		},
 		{
 			"trigger": "Play Nice\tMoves",
@@ -4184,6 +5392,10 @@
 		{
 			"trigger": "Pollen Puff\tMoves",
 			"contents": "Pollen Puff"
+		},
+		{
+			"trigger": "Poltergeist\tMoves",
+			"contents": "Poltergeist"
 		},
 		{
 			"trigger": "Pound\tMoves",
@@ -4302,6 +5514,10 @@
 			"contents": "Pursuit"
 		},
 		{
+			"trigger": "Pyro Ball\tMoves",
+			"contents": "Pyro Ball"
+		},
+		{
 			"trigger": "Quash\tMoves",
 			"contents": "Quash"
 		},
@@ -4394,6 +5610,10 @@
 			"contents": "Reversal"
 		},
 		{
+			"trigger": "Rising Voltage\tMoves",
+			"contents": "Rising Voltage"
+		},
+		{
 			"trigger": "Roar\tMoves",
 			"contents": "Roar"
 		},
@@ -4474,12 +5694,16 @@
 			"contents": "Sand Attack"
 		},
 		{
+			"trigger": "Sandstorm\tMoves",
+			"contents": "Sandstorm"
+		},
+		{
 			"trigger": "Sand Tomb\tMoves",
 			"contents": "Sand Tomb"
 		},
 		{
-			"trigger": "Sandstorm\tMoves",
-			"contents": "Sandstorm"
+			"trigger": "Sappy Seed\tMoves",
+			"contents": "Sappy Seed"
 		},
 		{
 			"trigger": "Savage Spin-Out\tMoves",
@@ -4490,8 +5714,16 @@
 			"contents": "Scald"
 		},
 		{
+			"trigger": "Scale Shot\tMoves",
+			"contents": "Scale Shot"
+		},
+		{
 			"trigger": "Scary Face\tMoves",
 			"contents": "Scary Face"
+		},
+		{
+			"trigger": "Scorching Sands\tMoves",
+			"contents": "Scorching Sands"
 		},
 		{
 			"trigger": "Scratch\tMoves",
@@ -4504,6 +5736,10 @@
 		{
 			"trigger": "Searing Shot\tMoves",
 			"contents": "Searing Shot"
+		},
+		{
+			"trigger": "Searing Sunraze Smash\tMoves",
+			"contents": "Searing Sunraze Smash"
 		},
 		{
 			"trigger": "Secret Power\tMoves",
@@ -4554,6 +5790,10 @@
 			"contents": "Shadow Sneak"
 		},
 		{
+			"trigger": "Shadow Strike\tMoves",
+			"contents": "Shadow Strike"
+		},
+		{
 			"trigger": "Sharpen\tMoves",
 			"contents": "Sharpen"
 		},
@@ -4564,6 +5804,10 @@
 		{
 			"trigger": "Sheer Cold\tMoves",
 			"contents": "Sheer Cold"
+		},
+		{
+			"trigger": "Shell Side Arm\tMoves",
+			"contents": "Shell Side Arm"
 		},
 		{
 			"trigger": "Shell Smash\tMoves",
@@ -4606,12 +5850,20 @@
 			"contents": "Sinister Arrow Raid"
 		},
 		{
+			"trigger": "Sizzly Slide\tMoves",
+			"contents": "Sizzly Slide"
+		},
+		{
 			"trigger": "Sketch\tMoves",
 			"contents": "Sketch"
 		},
 		{
 			"trigger": "Skill Swap\tMoves",
 			"contents": "Skill Swap"
+		},
+		{
+			"trigger": "Skitter Smack\tMoves",
+			"contents": "Skitter Smack"
 		},
 		{
 			"trigger": "Skull Bash\tMoves",
@@ -4682,6 +5934,10 @@
 			"contents": "Smokescreen"
 		},
 		{
+			"trigger": "Snap Trap\tMoves",
+			"contents": "Snap Trap"
+		},
+		{
 			"trigger": "Snarl\tMoves",
 			"contents": "Snarl"
 		},
@@ -4690,24 +5946,12 @@
 			"contents": "Snatch"
 		},
 		{
+			"trigger": "Snipe Shot\tMoves",
+			"contents": "Snipe Shot"
+		},
+		{
 			"trigger": "Snore\tMoves",
 			"contents": "Snore"
-		},
-		{
-			"trigger": "Spectral Thief\tMoves",
-			"contents": "Spectral Thief"
-		},
-		{
-			"trigger": "Speed Swap\tMoves",
-			"contents": "Speed Swap"
-		},
-		{
-			"trigger": "Spiky Shield\tMoves",
-			"contents": "Spiky Shield"
-		},
-		{
-			"trigger": "Spirit Shackle\tMoves",
-			"contents": "Spirit Shackle"
 		},
 		{
 			"trigger": "Soak\tMoves",
@@ -4746,6 +5990,18 @@
 			"contents": "Sparkling Aria"
 		},
 		{
+			"trigger": "Sparkly Swirl\tMoves",
+			"contents": "Sparkly Swirl"
+		},
+		{
+			"trigger": "Spectral Thief\tMoves",
+			"contents": "Spectral Thief"
+		},
+		{
+			"trigger": "Speed Swap\tMoves",
+			"contents": "Speed Swap"
+		},
+		{
 			"trigger": "Spider Web\tMoves",
 			"contents": "Spider Web"
 		},
@@ -4758,6 +6014,18 @@
 			"contents": "Spikes"
 		},
 		{
+			"trigger": "Spiky Shield\tMoves",
+			"contents": "Spiky Shield"
+		},
+		{
+			"trigger": "Spirit Break\tMoves",
+			"contents": "Spirit Break"
+		},
+		{
+			"trigger": "Spirit Shackle\tMoves",
+			"contents": "Spirit Shackle"
+		},
+		{
 			"trigger": "Spit Up\tMoves",
 			"contents": "Spit Up"
 		},
@@ -4768,6 +6036,14 @@
 		{
 			"trigger": "Splash\tMoves",
 			"contents": "Splash"
+		},
+		{
+			"trigger": "Splintered Stormshards\tMoves",
+			"contents": "Splintered Stormshards"
+		},
+		{
+			"trigger": "Splishy Splash\tMoves",
+			"contents": "Splishy Splash"
 		},
 		{
 			"trigger": "Spore\tMoves",
@@ -4784,6 +6060,18 @@
 		{
 			"trigger": "Steam Eruption\tMoves",
 			"contents": "Steam Eruption"
+		},
+		{
+			"trigger": "Steamroller\tMoves",
+			"contents": "Steamroller"
+		},
+		{
+			"trigger": "Steel Beam\tMoves",
+			"contents": "Steel Beam"
+		},
+		{
+			"trigger": "Steel Roller\tMoves",
+			"contents": "Steel Roller"
 		},
 		{
 			"trigger": "Steel Wing\tMoves",
@@ -4822,8 +6110,8 @@
 			"contents": "Storm Throw"
 		},
 		{
-			"trigger": "Steamroller\tMoves",
-			"contents": "Steamroller"
+			"trigger": "Strange Steam\tMoves",
+			"contents": "Strange Steam"
 		},
 		{
 			"trigger": "Strength\tMoves",
@@ -4844,6 +6132,10 @@
 		{
 			"trigger": "Struggle Bug\tMoves",
 			"contents": "Struggle Bug"
+		},
+		{
+			"trigger": "Stuff Cheeks\tMoves",
+			"contents": "Stuff Cheeks"
 		},
 		{
 			"trigger": "Stun Spore\tMoves",
@@ -4892,6 +6184,10 @@
 		{
 			"trigger": "Surf\tMoves",
 			"contents": "Surf"
+		},
+		{
+			"trigger": "Surging Strikes\tMoves",
+			"contents": "Surging Strikes"
 		},
 		{
 			"trigger": "Swagger\tMoves",
@@ -4954,12 +6250,20 @@
 			"contents": "Take Down"
 		},
 		{
+			"trigger": "Tar Shot\tMoves",
+			"contents": "Tar Shot"
+		},
+		{
 			"trigger": "Taunt\tMoves",
 			"contents": "Taunt"
 		},
 		{
 			"trigger": "Tearful Look\tMoves",
 			"contents": "Tearful Look"
+		},
+		{
+			"trigger": "Teatime\tMoves",
+			"contents": "Teatime"
 		},
 		{
 			"trigger": "Techno Blast\tMoves",
@@ -4980,6 +6284,10 @@
 		{
 			"trigger": "Teleport\tMoves",
 			"contents": "Teleport"
+		},
+		{
+			"trigger": "Terrain Pulse\tMoves",
+			"contents": "Terrain Pulse"
 		},
 		{
 			"trigger": "Thief\tMoves",
@@ -5006,8 +6314,20 @@
 			"contents": "Thunder"
 		},
 		{
+			"trigger": "Thunderbolt\tMoves",
+			"contents": "Thunderbolt"
+		},
+		{
+			"trigger": "Thunder Cage\tMoves",
+			"contents": "Thunder Cage"
+		},
+		{
 			"trigger": "Thunder Fang\tMoves",
 			"contents": "Thunder Fang"
+		},
+		{
+			"trigger": "Thunderous Kick\tMoves",
+			"contents": "Thunderous Kick"
 		},
 		{
 			"trigger": "Thunder Punch\tMoves",
@@ -5020,10 +6340,6 @@
 		{
 			"trigger": "Thunder Wave\tMoves",
 			"contents": "Thunder Wave"
-		},
-		{
-			"trigger": "Thunderbolt\tMoves",
-			"contents": "Thunderbolt"
 		},
 		{
 			"trigger": "Tickle\tMoves",
@@ -5070,6 +6386,10 @@
 			"contents": "Trick Room"
 		},
 		{
+			"trigger": "Triple Axel\tMoves",
+			"contents": "Triple Axel"
+		},
+		{
 			"trigger": "Triple Kick\tMoves",
 			"contents": "Triple Kick"
 		},
@@ -5102,12 +6422,16 @@
 			"contents": "Uproar"
 		},
 		{
+			"trigger": "Vacuum Wave\tMoves",
+			"contents": "Vacuum Wave"
+		},
+		{
 			"trigger": "V-create\tMoves",
 			"contents": "V-create"
 		},
 		{
-			"trigger": "Vacuum Wave\tMoves",
-			"contents": "Vacuum Wave"
+			"trigger": "Veevee Volley\tMoves",
+			"contents": "Veevee Volley"
 		},
 		{
 			"trigger": "Venom Drench\tMoves",
@@ -5118,12 +6442,12 @@
 			"contents": "Venoshock"
 		},
 		{
-			"trigger": "Vice Grip\tMoves",
-			"contents": "Vice Grip"
-		},
-		{
 			"trigger": "Vine Whip\tMoves",
 			"contents": "Vine Whip"
+		},
+		{
+			"trigger": "Vise Grip\tMoves",
+			"contents": "Vise Grip"
 		},
 		{
 			"trigger": "Vital Throw\tMoves",
@@ -5142,6 +6466,10 @@
 			"contents": "Wake-Up Slap"
 		},
 		{
+			"trigger": "Waterfall\tMoves",
+			"contents": "Waterfall"
+		},
+		{
 			"trigger": "Water Gun\tMoves",
 			"contents": "Water Gun"
 		},
@@ -5154,20 +6482,16 @@
 			"contents": "Water Pulse"
 		},
 		{
+			"trigger": "Water Shuriken\tMoves",
+			"contents": "Water Shuriken"
+		},
+		{
 			"trigger": "Water Sport\tMoves",
 			"contents": "Water Sport"
 		},
 		{
 			"trigger": "Water Spout\tMoves",
 			"contents": "Water Spout"
-		},
-		{
-			"trigger": "Waterfall\tMoves",
-			"contents": "Waterfall"
-		},
-		{
-			"trigger": "Water Shuriken\tMoves",
-			"contents": "Water Shuriken"
 		},
 		{
 			"trigger": "Weather Ball\tMoves",
@@ -5180,6 +6504,10 @@
 		{
 			"trigger": "Whirlwind\tMoves",
 			"contents": "Whirlwind"
+		},
+		{
+			"trigger": "Wicked Blow\tMoves",
+			"contents": "Wicked Blow"
 		},
 		{
 			"trigger": "Wide Guard\tMoves",
@@ -5250,16 +6578,8 @@
 			"contents": "Zing Zap"
 		},
 		{
-			"trigger": "Paleo Wave\tMoves",
-			"contents": "Paleo Wave"
-		},
-		{
-			"trigger": "Shadow Strike\tMoves",
-			"contents": "Shadow Strike"
-		},
-		{
-			"trigger": "Magikarp's Revenge\tMoves",
-			"contents": "Magikarp's Revenge"
+			"trigger": "Zippy Zap\tMoves",
+			"contents": "Zippy Zap"
 		},
 		{
 			"trigger": "Bulbasaur\tPokemons",
@@ -5276,6 +6596,10 @@
 		{
 			"trigger": "Venusaur-Mega\tPokemons",
 			"contents": "Venusaur-Mega"
+		},
+		{
+			"trigger": "Venusaur-Gmax\tPokemons",
+			"contents": "Venusaur-Gmax"
 		},
 		{
 			"trigger": "Charmander\tPokemons",
@@ -5298,6 +6622,10 @@
 			"contents": "Charizard-Mega-Y"
 		},
 		{
+			"trigger": "Charizard-Gmax\tPokemons",
+			"contents": "Charizard-Gmax"
+		},
+		{
 			"trigger": "Squirtle\tPokemons",
 			"contents": "Squirtle"
 		},
@@ -5314,6 +6642,10 @@
 			"contents": "Blastoise-Mega"
 		},
 		{
+			"trigger": "Blastoise-Gmax\tPokemons",
+			"contents": "Blastoise-Gmax"
+		},
+		{
 			"trigger": "Caterpie\tPokemons",
 			"contents": "Caterpie"
 		},
@@ -5324,6 +6656,10 @@
 		{
 			"trigger": "Butterfree\tPokemons",
 			"contents": "Butterfree"
+		},
+		{
+			"trigger": "Butterfree-Gmax\tPokemons",
+			"contents": "Butterfree-Gmax"
 		},
 		{
 			"trigger": "Weedle\tPokemons",
@@ -5374,6 +6710,10 @@
 			"contents": "Raticate-Alola"
 		},
 		{
+			"trigger": "Raticate-Alola-Totem\tPokemons",
+			"contents": "Raticate-Alola-Totem"
+		},
+		{
 			"trigger": "Spearow\tPokemons",
 			"contents": "Spearow"
 		},
@@ -5416,6 +6756,46 @@
 		{
 			"trigger": "Pikachu-Libre\tPokemons",
 			"contents": "Pikachu-Libre"
+		},
+		{
+			"trigger": "Pikachu-Original\tPokemons",
+			"contents": "Pikachu-Original"
+		},
+		{
+			"trigger": "Pikachu-Hoenn\tPokemons",
+			"contents": "Pikachu-Hoenn"
+		},
+		{
+			"trigger": "Pikachu-Sinnoh\tPokemons",
+			"contents": "Pikachu-Sinnoh"
+		},
+		{
+			"trigger": "Pikachu-Unova\tPokemons",
+			"contents": "Pikachu-Unova"
+		},
+		{
+			"trigger": "Pikachu-Kalos\tPokemons",
+			"contents": "Pikachu-Kalos"
+		},
+		{
+			"trigger": "Pikachu-Alola\tPokemons",
+			"contents": "Pikachu-Alola"
+		},
+		{
+			"trigger": "Pikachu-Partner\tPokemons",
+			"contents": "Pikachu-Partner"
+		},
+		{
+			"trigger": "Pikachu-Starter\tPokemons",
+			"contents": "Pikachu-Starter"
+		},
+		{
+			"trigger": "Pikachu-Gmax\tPokemons",
+			"contents": "Pikachu-Gmax"
+		},
+		{
+			"trigger": "Pikachu-World\tPokemons",
+			"contents": "Pikachu-World"
 		},
 		{
 			"trigger": "Raichu\tPokemons",
@@ -5558,6 +6938,14 @@
 			"contents": "Meowth-Alola"
 		},
 		{
+			"trigger": "Meowth-Galar\tPokemons",
+			"contents": "Meowth-Galar"
+		},
+		{
+			"trigger": "Meowth-Gmax\tPokemons",
+			"contents": "Meowth-Gmax"
+		},
+		{
 			"trigger": "Persian\tPokemons",
 			"contents": "Persian"
 		},
@@ -5630,6 +7018,10 @@
 			"contents": "Machamp"
 		},
 		{
+			"trigger": "Machamp-Gmax\tPokemons",
+			"contents": "Machamp-Gmax"
+		},
+		{
 			"trigger": "Bellsprout\tPokemons",
 			"contents": "Bellsprout"
 		},
@@ -5678,12 +7070,24 @@
 			"contents": "Ponyta"
 		},
 		{
+			"trigger": "Ponyta-Galar\tPokemons",
+			"contents": "Ponyta-Galar"
+		},
+		{
 			"trigger": "Rapidash\tPokemons",
 			"contents": "Rapidash"
 		},
 		{
+			"trigger": "Rapidash-Galar\tPokemons",
+			"contents": "Rapidash-Galar"
+		},
+		{
 			"trigger": "Slowpoke\tPokemons",
 			"contents": "Slowpoke"
+		},
+		{
+			"trigger": "Slowpoke-Galar\tPokemons",
+			"contents": "Slowpoke-Galar"
 		},
 		{
 			"trigger": "Slowbro\tPokemons",
@@ -5694,6 +7098,10 @@
 			"contents": "Slowbro-Mega"
 		},
 		{
+			"trigger": "Slowbro-Galar\tPokemons",
+			"contents": "Slowbro-Galar"
+		},
+		{
 			"trigger": "Magnemite\tPokemons",
 			"contents": "Magnemite"
 		},
@@ -5702,8 +7110,12 @@
 			"contents": "Magneton"
 		},
 		{
-			"trigger": "Farfetch'd\tPokemons",
-			"contents": "Farfetch'd"
+			"trigger": "Farfetch’d\tPokemons",
+			"contents": "Farfetch’d"
+		},
+		{
+			"trigger": "Farfetch’d-Galar\tPokemons",
+			"contents": "Farfetch’d-Galar"
 		},
 		{
 			"trigger": "Doduo\tPokemons",
@@ -5762,6 +7174,10 @@
 			"contents": "Gengar-Mega"
 		},
 		{
+			"trigger": "Gengar-Gmax\tPokemons",
+			"contents": "Gengar-Gmax"
+		},
+		{
 			"trigger": "Onix\tPokemons",
 			"contents": "Onix"
 		},
@@ -5780,6 +7196,10 @@
 		{
 			"trigger": "Kingler\tPokemons",
 			"contents": "Kingler"
+		},
+		{
+			"trigger": "Kingler-Gmax\tPokemons",
+			"contents": "Kingler-Gmax"
 		},
 		{
 			"trigger": "Voltorb\tPokemons",
@@ -5814,6 +7234,10 @@
 			"contents": "Marowak-Alola"
 		},
 		{
+			"trigger": "Marowak-Alola-Totem\tPokemons",
+			"contents": "Marowak-Alola-Totem"
+		},
+		{
 			"trigger": "Hitmonlee\tPokemons",
 			"contents": "Hitmonlee"
 		},
@@ -5832,6 +7256,10 @@
 		{
 			"trigger": "Weezing\tPokemons",
 			"contents": "Weezing"
+		},
+		{
+			"trigger": "Weezing-Galar\tPokemons",
+			"contents": "Weezing-Galar"
 		},
 		{
 			"trigger": "Rhyhorn\tPokemons",
@@ -5886,6 +7314,10 @@
 			"contents": "Mr. Mime"
 		},
 		{
+			"trigger": "Mr. Mime-Galar\tPokemons",
+			"contents": "Mr. Mime-Galar"
+		},
+		{
 			"trigger": "Scyther\tPokemons",
 			"contents": "Scyther"
 		},
@@ -5930,12 +7362,24 @@
 			"contents": "Lapras"
 		},
 		{
+			"trigger": "Lapras-Gmax\tPokemons",
+			"contents": "Lapras-Gmax"
+		},
+		{
 			"trigger": "Ditto\tPokemons",
 			"contents": "Ditto"
 		},
 		{
 			"trigger": "Eevee\tPokemons",
 			"contents": "Eevee"
+		},
+		{
+			"trigger": "Eevee-Starter\tPokemons",
+			"contents": "Eevee-Starter"
+		},
+		{
+			"trigger": "Eevee-Gmax\tPokemons",
+			"contents": "Eevee-Gmax"
 		},
 		{
 			"trigger": "Vaporeon\tPokemons",
@@ -5982,16 +7426,32 @@
 			"contents": "Snorlax"
 		},
 		{
+			"trigger": "Snorlax-Gmax\tPokemons",
+			"contents": "Snorlax-Gmax"
+		},
+		{
 			"trigger": "Articuno\tPokemons",
 			"contents": "Articuno"
+		},
+		{
+			"trigger": "Articuno-Galar\tPokemons",
+			"contents": "Articuno-Galar"
 		},
 		{
 			"trigger": "Zapdos\tPokemons",
 			"contents": "Zapdos"
 		},
 		{
+			"trigger": "Zapdos-Galar\tPokemons",
+			"contents": "Zapdos-Galar"
+		},
+		{
 			"trigger": "Moltres\tPokemons",
 			"contents": "Moltres"
+		},
+		{
+			"trigger": "Moltres-Galar\tPokemons",
+			"contents": "Moltres-Galar"
 		},
 		{
 			"trigger": "Dratini\tPokemons",
@@ -6222,6 +7682,10 @@
 			"contents": "Slowking"
 		},
 		{
+			"trigger": "Slowking-Galar\tPokemons",
+			"contents": "Slowking-Galar"
+		},
+		{
 			"trigger": "Misdreavus\tPokemons",
 			"contents": "Misdreavus"
 		},
@@ -6326,6 +7790,10 @@
 			"contents": "Corsola"
 		},
 		{
+			"trigger": "Corsola-Galar\tPokemons",
+			"contents": "Corsola-Galar"
+		},
+		{
 			"trigger": "Remoraid\tPokemons",
 			"contents": "Remoraid"
 		},
@@ -6380,10 +7848,6 @@
 		{
 			"trigger": "Smeargle\tPokemons",
 			"contents": "Smeargle"
-		},
-		{
-			"trigger": "Pokestar Smeargle\tPokemons",
-			"contents": "Pokestar Smeargle"
 		},
 		{
 			"trigger": "Tyrogue\tPokemons",
@@ -6514,8 +7978,16 @@
 			"contents": "Zigzagoon"
 		},
 		{
+			"trigger": "Zigzagoon-Galar\tPokemons",
+			"contents": "Zigzagoon-Galar"
+		},
+		{
 			"trigger": "Linoone\tPokemons",
 			"contents": "Linoone"
+		},
+		{
+			"trigger": "Linoone-Galar\tPokemons",
+			"contents": "Linoone-Galar"
 		},
 		{
 			"trigger": "Wurmple\tPokemons",
@@ -7914,12 +9386,24 @@
 			"contents": "Darumaka"
 		},
 		{
+			"trigger": "Darumaka-Galar\tPokemons",
+			"contents": "Darumaka-Galar"
+		},
+		{
 			"trigger": "Darmanitan\tPokemons",
 			"contents": "Darmanitan"
 		},
 		{
 			"trigger": "Darmanitan-Zen\tPokemons",
 			"contents": "Darmanitan-Zen"
+		},
+		{
+			"trigger": "Darmanitan-Galar\tPokemons",
+			"contents": "Darmanitan-Galar"
+		},
+		{
+			"trigger": "Darmanitan-Galar-Zen\tPokemons",
+			"contents": "Darmanitan-Galar-Zen"
 		},
 		{
 			"trigger": "Maractus\tPokemons",
@@ -7950,6 +9434,10 @@
 			"contents": "Yamask"
 		},
 		{
+			"trigger": "Yamask-Galar\tPokemons",
+			"contents": "Yamask-Galar"
+		},
+		{
 			"trigger": "Cofagrigus\tPokemons",
 			"contents": "Cofagrigus"
 		},
@@ -7976,6 +9464,10 @@
 		{
 			"trigger": "Garbodor\tPokemons",
 			"contents": "Garbodor"
+		},
+		{
+			"trigger": "Garbodor-Gmax\tPokemons",
+			"contents": "Garbodor-Gmax"
 		},
 		{
 			"trigger": "Zorua\tPokemons",
@@ -8172,6 +9664,10 @@
 		{
 			"trigger": "Stunfisk\tPokemons",
 			"contents": "Stunfisk"
+		},
+		{
+			"trigger": "Stunfisk-Galar\tPokemons",
+			"contents": "Stunfisk-Galar"
 		},
 		{
 			"trigger": "Mienfoo\tPokemons",
@@ -8430,8 +9926,8 @@
 			"contents": "Pyroar"
 		},
 		{
-			"trigger": "Flabebe\tPokemons",
-			"contents": "Flabebe"
+			"trigger": "Flabébé\tPokemons",
+			"contents": "Flabébé"
 		},
 		{
 			"trigger": "Floette\tPokemons",
@@ -8658,6 +10154,10 @@
 			"contents": "Xerneas"
 		},
 		{
+			"trigger": "Xerneas-Neutral\tPokemons",
+			"contents": "Xerneas-Neutral"
+		},
+		{
 			"trigger": "Yveltal\tPokemons",
 			"contents": "Yveltal"
 		},
@@ -8750,6 +10250,10 @@
 			"contents": "Gumshoos"
 		},
 		{
+			"trigger": "Gumshoos-Totem\tPokemons",
+			"contents": "Gumshoos-Totem"
+		},
+		{
 			"trigger": "Grubbin\tPokemons",
 			"contents": "Grubbin"
 		},
@@ -8760,6 +10264,10 @@
 		{
 			"trigger": "Vikavolt\tPokemons",
 			"contents": "Vikavolt"
+		},
+		{
+			"trigger": "Vikavolt-Totem\tPokemons",
+			"contents": "Vikavolt-Totem"
 		},
 		{
 			"trigger": "Crabrawler\tPokemons",
@@ -8794,6 +10302,10 @@
 			"contents": "Ribombee"
 		},
 		{
+			"trigger": "Ribombee-Totem\tPokemons",
+			"contents": "Ribombee-Totem"
+		},
+		{
 			"trigger": "Rockruff\tPokemons",
 			"contents": "Rockruff"
 		},
@@ -8804,6 +10316,10 @@
 		{
 			"trigger": "Lycanroc-Midnight\tPokemons",
 			"contents": "Lycanroc-Midnight"
+		},
+		{
+			"trigger": "Lycanroc-Dusk\tPokemons",
+			"contents": "Lycanroc-Dusk"
 		},
 		{
 			"trigger": "Wishiwashi\tPokemons",
@@ -8838,12 +10354,20 @@
 			"contents": "Araquanid"
 		},
 		{
+			"trigger": "Araquanid-Totem\tPokemons",
+			"contents": "Araquanid-Totem"
+		},
+		{
 			"trigger": "Fomantis\tPokemons",
 			"contents": "Fomantis"
 		},
 		{
 			"trigger": "Lurantis\tPokemons",
 			"contents": "Lurantis"
+		},
+		{
+			"trigger": "Lurantis-Totem\tPokemons",
+			"contents": "Lurantis-Totem"
 		},
 		{
 			"trigger": "Morelull\tPokemons",
@@ -8860,6 +10384,10 @@
 		{
 			"trigger": "Salazzle\tPokemons",
 			"contents": "Salazzle"
+		},
+		{
+			"trigger": "Salazzle-Totem\tPokemons",
+			"contents": "Salazzle-Totem"
 		},
 		{
 			"trigger": "Stufful\tPokemons",
@@ -9010,12 +10538,24 @@
 			"contents": "Togedemaru"
 		},
 		{
+			"trigger": "Togedemaru-Totem\tPokemons",
+			"contents": "Togedemaru-Totem"
+		},
+		{
 			"trigger": "Mimikyu\tPokemons",
 			"contents": "Mimikyu"
 		},
 		{
 			"trigger": "Mimikyu-Busted\tPokemons",
 			"contents": "Mimikyu-Busted"
+		},
+		{
+			"trigger": "Mimikyu-Totem\tPokemons",
+			"contents": "Mimikyu-Totem"
+		},
+		{
+			"trigger": "Mimikyu-Busted-Totem\tPokemons",
+			"contents": "Mimikyu-Busted-Totem"
 		},
 		{
 			"trigger": "Bruxish\tPokemons",
@@ -9040,6 +10580,10 @@
 		{
 			"trigger": "Kommo-o\tPokemons",
 			"contents": "Kommo-o"
+		},
+		{
+			"trigger": "Kommo-o-Totem\tPokemons",
+			"contents": "Kommo-o-Totem"
 		},
 		{
 			"trigger": "Tapu Koko\tPokemons",
@@ -9106,64 +10650,564 @@
 			"contents": "Necrozma"
 		},
 		{
+			"trigger": "Necrozma-Dusk-Mane\tPokemons",
+			"contents": "Necrozma-Dusk-Mane"
+		},
+		{
+			"trigger": "Necrozma-Dawn-Wings\tPokemons",
+			"contents": "Necrozma-Dawn-Wings"
+		},
+		{
+			"trigger": "Necrozma-Ultra\tPokemons",
+			"contents": "Necrozma-Ultra"
+		},
+		{
 			"trigger": "Magearna\tPokemons",
 			"contents": "Magearna"
+		},
+		{
+			"trigger": "Magearna-Original\tPokemons",
+			"contents": "Magearna-Original"
 		},
 		{
 			"trigger": "Marshadow\tPokemons",
 			"contents": "Marshadow"
 		},
 		{
-			"trigger": "Missingno.\tPokemons",
-			"contents": "Missingno."
+			"trigger": "Poipole\tPokemons",
+			"contents": "Poipole"
 		},
 		{
-			"trigger": "Tomohawk\tPokemons",
-			"contents": "Tomohawk"
+			"trigger": "Naganadel\tPokemons",
+			"contents": "Naganadel"
 		},
 		{
-			"trigger": "Necturna\tPokemons",
-			"contents": "Necturna"
+			"trigger": "Stakataka\tPokemons",
+			"contents": "Stakataka"
 		},
 		{
-			"trigger": "Mollux\tPokemons",
-			"contents": "Mollux"
+			"trigger": "Blacephalon\tPokemons",
+			"contents": "Blacephalon"
 		},
 		{
-			"trigger": "Aurumoth\tPokemons",
-			"contents": "Aurumoth"
+			"trigger": "Zeraora\tPokemons",
+			"contents": "Zeraora"
 		},
 		{
-			"trigger": "Malaconda\tPokemons",
-			"contents": "Malaconda"
+			"trigger": "Meltan\tPokemons",
+			"contents": "Meltan"
 		},
 		{
-			"trigger": "Cawmodore\tPokemons",
-			"contents": "Cawmodore"
+			"trigger": "Melmetal\tPokemons",
+			"contents": "Melmetal"
 		},
 		{
-			"trigger": "Volkraken\tPokemons",
-			"contents": "Volkraken"
+			"trigger": "Melmetal-Gmax\tPokemons",
+			"contents": "Melmetal-Gmax"
 		},
 		{
-			"trigger": "Plasmanta\tPokemons",
-			"contents": "Plasmanta"
+			"trigger": "Grookey\tPokemons",
+			"contents": "Grookey"
 		},
 		{
-			"trigger": "Naviathan\tPokemons",
-			"contents": "Naviathan"
+			"trigger": "Thwackey\tPokemons",
+			"contents": "Thwackey"
 		},
 		{
-			"trigger": "Crucibelle\tPokemons",
-			"contents": "Crucibelle"
+			"trigger": "Rillaboom\tPokemons",
+			"contents": "Rillaboom"
 		},
 		{
-			"trigger": "Crucibelle-Mega\tPokemons",
-			"contents": "Crucibelle-Mega"
+			"trigger": "Rillaboom-Gmax\tPokemons",
+			"contents": "Rillaboom-Gmax"
 		},
 		{
-			"trigger": "Kerfluffle\tPokemons",
-			"contents": "Kerfluffle"
+			"trigger": "Scorbunny\tPokemons",
+			"contents": "Scorbunny"
+		},
+		{
+			"trigger": "Raboot\tPokemons",
+			"contents": "Raboot"
+		},
+		{
+			"trigger": "Cinderace\tPokemons",
+			"contents": "Cinderace"
+		},
+		{
+			"trigger": "Cinderace-Gmax\tPokemons",
+			"contents": "Cinderace-Gmax"
+		},
+		{
+			"trigger": "Sobble\tPokemons",
+			"contents": "Sobble"
+		},
+		{
+			"trigger": "Drizzile\tPokemons",
+			"contents": "Drizzile"
+		},
+		{
+			"trigger": "Inteleon\tPokemons",
+			"contents": "Inteleon"
+		},
+		{
+			"trigger": "Inteleon-Gmax\tPokemons",
+			"contents": "Inteleon-Gmax"
+		},
+		{
+			"trigger": "Skwovet\tPokemons",
+			"contents": "Skwovet"
+		},
+		{
+			"trigger": "Greedent\tPokemons",
+			"contents": "Greedent"
+		},
+		{
+			"trigger": "Rookidee\tPokemons",
+			"contents": "Rookidee"
+		},
+		{
+			"trigger": "Corvisquire\tPokemons",
+			"contents": "Corvisquire"
+		},
+		{
+			"trigger": "Corviknight\tPokemons",
+			"contents": "Corviknight"
+		},
+		{
+			"trigger": "Corviknight-Gmax\tPokemons",
+			"contents": "Corviknight-Gmax"
+		},
+		{
+			"trigger": "Blipbug\tPokemons",
+			"contents": "Blipbug"
+		},
+		{
+			"trigger": "Dottler\tPokemons",
+			"contents": "Dottler"
+		},
+		{
+			"trigger": "Orbeetle\tPokemons",
+			"contents": "Orbeetle"
+		},
+		{
+			"trigger": "Orbeetle-Gmax\tPokemons",
+			"contents": "Orbeetle-Gmax"
+		},
+		{
+			"trigger": "Nickit\tPokemons",
+			"contents": "Nickit"
+		},
+		{
+			"trigger": "Thievul\tPokemons",
+			"contents": "Thievul"
+		},
+		{
+			"trigger": "Gossifleur\tPokemons",
+			"contents": "Gossifleur"
+		},
+		{
+			"trigger": "Eldegoss\tPokemons",
+			"contents": "Eldegoss"
+		},
+		{
+			"trigger": "Wooloo\tPokemons",
+			"contents": "Wooloo"
+		},
+		{
+			"trigger": "Dubwool\tPokemons",
+			"contents": "Dubwool"
+		},
+		{
+			"trigger": "Chewtle\tPokemons",
+			"contents": "Chewtle"
+		},
+		{
+			"trigger": "Drednaw\tPokemons",
+			"contents": "Drednaw"
+		},
+		{
+			"trigger": "Drednaw-Gmax\tPokemons",
+			"contents": "Drednaw-Gmax"
+		},
+		{
+			"trigger": "Yamper\tPokemons",
+			"contents": "Yamper"
+		},
+		{
+			"trigger": "Boltund\tPokemons",
+			"contents": "Boltund"
+		},
+		{
+			"trigger": "Rolycoly\tPokemons",
+			"contents": "Rolycoly"
+		},
+		{
+			"trigger": "Carkol\tPokemons",
+			"contents": "Carkol"
+		},
+		{
+			"trigger": "Coalossal\tPokemons",
+			"contents": "Coalossal"
+		},
+		{
+			"trigger": "Coalossal-Gmax\tPokemons",
+			"contents": "Coalossal-Gmax"
+		},
+		{
+			"trigger": "Applin\tPokemons",
+			"contents": "Applin"
+		},
+		{
+			"trigger": "Flapple\tPokemons",
+			"contents": "Flapple"
+		},
+		{
+			"trigger": "Flapple-Gmax\tPokemons",
+			"contents": "Flapple-Gmax"
+		},
+		{
+			"trigger": "Appletun\tPokemons",
+			"contents": "Appletun"
+		},
+		{
+			"trigger": "Appletun-Gmax\tPokemons",
+			"contents": "Appletun-Gmax"
+		},
+		{
+			"trigger": "Silicobra\tPokemons",
+			"contents": "Silicobra"
+		},
+		{
+			"trigger": "Sandaconda\tPokemons",
+			"contents": "Sandaconda"
+		},
+		{
+			"trigger": "Sandaconda-Gmax\tPokemons",
+			"contents": "Sandaconda-Gmax"
+		},
+		{
+			"trigger": "Cramorant\tPokemons",
+			"contents": "Cramorant"
+		},
+		{
+			"trigger": "Cramorant-Gulping\tPokemons",
+			"contents": "Cramorant-Gulping"
+		},
+		{
+			"trigger": "Cramorant-Gorging\tPokemons",
+			"contents": "Cramorant-Gorging"
+		},
+		{
+			"trigger": "Arrokuda\tPokemons",
+			"contents": "Arrokuda"
+		},
+		{
+			"trigger": "Barraskewda\tPokemons",
+			"contents": "Barraskewda"
+		},
+		{
+			"trigger": "Toxel\tPokemons",
+			"contents": "Toxel"
+		},
+		{
+			"trigger": "Toxtricity\tPokemons",
+			"contents": "Toxtricity"
+		},
+		{
+			"trigger": "Toxtricity-Low-Key\tPokemons",
+			"contents": "Toxtricity-Low-Key"
+		},
+		{
+			"trigger": "Toxtricity-Gmax\tPokemons",
+			"contents": "Toxtricity-Gmax"
+		},
+		{
+			"trigger": "Toxtricity-Low-Key-Gmax\tPokemons",
+			"contents": "Toxtricity-Low-Key-Gmax"
+		},
+		{
+			"trigger": "Sizzlipede\tPokemons",
+			"contents": "Sizzlipede"
+		},
+		{
+			"trigger": "Centiskorch\tPokemons",
+			"contents": "Centiskorch"
+		},
+		{
+			"trigger": "Centiskorch-Gmax\tPokemons",
+			"contents": "Centiskorch-Gmax"
+		},
+		{
+			"trigger": "Clobbopus\tPokemons",
+			"contents": "Clobbopus"
+		},
+		{
+			"trigger": "Grapploct\tPokemons",
+			"contents": "Grapploct"
+		},
+		{
+			"trigger": "Sinistea\tPokemons",
+			"contents": "Sinistea"
+		},
+		{
+			"trigger": "Sinistea-Antique\tPokemons",
+			"contents": "Sinistea-Antique"
+		},
+		{
+			"trigger": "Polteageist\tPokemons",
+			"contents": "Polteageist"
+		},
+		{
+			"trigger": "Polteageist-Antique\tPokemons",
+			"contents": "Polteageist-Antique"
+		},
+		{
+			"trigger": "Hatenna\tPokemons",
+			"contents": "Hatenna"
+		},
+		{
+			"trigger": "Hattrem\tPokemons",
+			"contents": "Hattrem"
+		},
+		{
+			"trigger": "Hatterene\tPokemons",
+			"contents": "Hatterene"
+		},
+		{
+			"trigger": "Hatterene-Gmax\tPokemons",
+			"contents": "Hatterene-Gmax"
+		},
+		{
+			"trigger": "Impidimp\tPokemons",
+			"contents": "Impidimp"
+		},
+		{
+			"trigger": "Morgrem\tPokemons",
+			"contents": "Morgrem"
+		},
+		{
+			"trigger": "Grimmsnarl\tPokemons",
+			"contents": "Grimmsnarl"
+		},
+		{
+			"trigger": "Grimmsnarl-Gmax\tPokemons",
+			"contents": "Grimmsnarl-Gmax"
+		},
+		{
+			"trigger": "Obstagoon\tPokemons",
+			"contents": "Obstagoon"
+		},
+		{
+			"trigger": "Perrserker\tPokemons",
+			"contents": "Perrserker"
+		},
+		{
+			"trigger": "Cursola\tPokemons",
+			"contents": "Cursola"
+		},
+		{
+			"trigger": "Sirfetch’d\tPokemons",
+			"contents": "Sirfetch’d"
+		},
+		{
+			"trigger": "Mr. Rime\tPokemons",
+			"contents": "Mr. Rime"
+		},
+		{
+			"trigger": "Runerigus\tPokemons",
+			"contents": "Runerigus"
+		},
+		{
+			"trigger": "Milcery\tPokemons",
+			"contents": "Milcery"
+		},
+		{
+			"trigger": "Alcremie\tPokemons",
+			"contents": "Alcremie"
+		},
+		{
+			"trigger": "Alcremie-Gmax\tPokemons",
+			"contents": "Alcremie-Gmax"
+		},
+		{
+			"trigger": "Falinks\tPokemons",
+			"contents": "Falinks"
+		},
+		{
+			"trigger": "Pincurchin\tPokemons",
+			"contents": "Pincurchin"
+		},
+		{
+			"trigger": "Snom\tPokemons",
+			"contents": "Snom"
+		},
+		{
+			"trigger": "Frosmoth\tPokemons",
+			"contents": "Frosmoth"
+		},
+		{
+			"trigger": "Stonjourner\tPokemons",
+			"contents": "Stonjourner"
+		},
+		{
+			"trigger": "Eiscue\tPokemons",
+			"contents": "Eiscue"
+		},
+		{
+			"trigger": "Eiscue-Noice\tPokemons",
+			"contents": "Eiscue-Noice"
+		},
+		{
+			"trigger": "Indeedee\tPokemons",
+			"contents": "Indeedee"
+		},
+		{
+			"trigger": "Indeedee-F\tPokemons",
+			"contents": "Indeedee-F"
+		},
+		{
+			"trigger": "Morpeko\tPokemons",
+			"contents": "Morpeko"
+		},
+		{
+			"trigger": "Morpeko-Hangry\tPokemons",
+			"contents": "Morpeko-Hangry"
+		},
+		{
+			"trigger": "Cufant\tPokemons",
+			"contents": "Cufant"
+		},
+		{
+			"trigger": "Copperajah\tPokemons",
+			"contents": "Copperajah"
+		},
+		{
+			"trigger": "Copperajah-Gmax\tPokemons",
+			"contents": "Copperajah-Gmax"
+		},
+		{
+			"trigger": "Dracozolt\tPokemons",
+			"contents": "Dracozolt"
+		},
+		{
+			"trigger": "Arctozolt\tPokemons",
+			"contents": "Arctozolt"
+		},
+		{
+			"trigger": "Dracovish\tPokemons",
+			"contents": "Dracovish"
+		},
+		{
+			"trigger": "Arctovish\tPokemons",
+			"contents": "Arctovish"
+		},
+		{
+			"trigger": "Duraludon\tPokemons",
+			"contents": "Duraludon"
+		},
+		{
+			"trigger": "Duraludon-Gmax\tPokemons",
+			"contents": "Duraludon-Gmax"
+		},
+		{
+			"trigger": "Dreepy\tPokemons",
+			"contents": "Dreepy"
+		},
+		{
+			"trigger": "Drakloak\tPokemons",
+			"contents": "Drakloak"
+		},
+		{
+			"trigger": "Dragapult\tPokemons",
+			"contents": "Dragapult"
+		},
+		{
+			"trigger": "Zacian\tPokemons",
+			"contents": "Zacian"
+		},
+		{
+			"trigger": "Zacian-Crowned\tPokemons",
+			"contents": "Zacian-Crowned"
+		},
+		{
+			"trigger": "Zamazenta\tPokemons",
+			"contents": "Zamazenta"
+		},
+		{
+			"trigger": "Zamazenta-Crowned\tPokemons",
+			"contents": "Zamazenta-Crowned"
+		},
+		{
+			"trigger": "Eternatus\tPokemons",
+			"contents": "Eternatus"
+		},
+		{
+			"trigger": "Eternatus-Eternamax\tPokemons",
+			"contents": "Eternatus-Eternamax"
+		},
+		{
+			"trigger": "Kubfu\tPokemons",
+			"contents": "Kubfu"
+		},
+		{
+			"trigger": "Urshifu\tPokemons",
+			"contents": "Urshifu"
+		},
+		{
+			"trigger": "Urshifu-Rapid-Strike\tPokemons",
+			"contents": "Urshifu-Rapid-Strike"
+		},
+		{
+			"trigger": "Urshifu-Gmax\tPokemons",
+			"contents": "Urshifu-Gmax"
+		},
+		{
+			"trigger": "Urshifu-Rapid-Strike-Gmax\tPokemons",
+			"contents": "Urshifu-Rapid-Strike-Gmax"
+		},
+		{
+			"trigger": "Zarude\tPokemons",
+			"contents": "Zarude"
+		},
+		{
+			"trigger": "Zarude-Dada\tPokemons",
+			"contents": "Zarude-Dada"
+		},
+		{
+			"trigger": "Regieleki\tPokemons",
+			"contents": "Regieleki"
+		},
+		{
+			"trigger": "Regidrago\tPokemons",
+			"contents": "Regidrago"
+		},
+		{
+			"trigger": "Glastrier\tPokemons",
+			"contents": "Glastrier"
+		},
+		{
+			"trigger": "Spectrier\tPokemons",
+			"contents": "Spectrier"
+		},
+		{
+			"trigger": "Calyrex\tPokemons",
+			"contents": "Calyrex"
+		},
+		{
+			"trigger": "Calyrex-Ice\tPokemons",
+			"contents": "Calyrex-Ice"
+		},
+		{
+			"trigger": "Calyrex-Shadow\tPokemons",
+			"contents": "Calyrex-Shadow"
+		},
+		{
+			"trigger": "MissingNo.\tPokemons",
+			"contents": "MissingNo."
+		},
+		{
+			"trigger": "Syclar\tPokemons",
+			"contents": "Syclar"
 		},
 		{
 			"trigger": "Syclant\tPokemons",
@@ -9174,16 +11218,40 @@
 			"contents": "Revenankh"
 		},
 		{
+			"trigger": "Embirch\tPokemons",
+			"contents": "Embirch"
+		},
+		{
+			"trigger": "Flarelm\tPokemons",
+			"contents": "Flarelm"
+		},
+		{
 			"trigger": "Pyroak\tPokemons",
 			"contents": "Pyroak"
+		},
+		{
+			"trigger": "Breezi\tPokemons",
+			"contents": "Breezi"
 		},
 		{
 			"trigger": "Fidgit\tPokemons",
 			"contents": "Fidgit"
 		},
 		{
+			"trigger": "Rebble\tPokemons",
+			"contents": "Rebble"
+		},
+		{
+			"trigger": "Tactite\tPokemons",
+			"contents": "Tactite"
+		},
+		{
 			"trigger": "Stratagem\tPokemons",
 			"contents": "Stratagem"
+		},
+		{
+			"trigger": "Privatyke\tPokemons",
+			"contents": "Privatyke"
 		},
 		{
 			"trigger": "Arghonaut\tPokemons",
@@ -9206,8 +11274,176 @@
 			"contents": "Krilowatt"
 		},
 		{
+			"trigger": "Voodoll\tPokemons",
+			"contents": "Voodoll"
+		},
+		{
 			"trigger": "Voodoom\tPokemons",
 			"contents": "Voodoom"
+		},
+		{
+			"trigger": "Scratchet\tPokemons",
+			"contents": "Scratchet"
+		},
+		{
+			"trigger": "Tomohawk\tPokemons",
+			"contents": "Tomohawk"
+		},
+		{
+			"trigger": "Necturine\tPokemons",
+			"contents": "Necturine"
+		},
+		{
+			"trigger": "Necturna\tPokemons",
+			"contents": "Necturna"
+		},
+		{
+			"trigger": "Mollux\tPokemons",
+			"contents": "Mollux"
+		},
+		{
+			"trigger": "Cupra\tPokemons",
+			"contents": "Cupra"
+		},
+		{
+			"trigger": "Argalis\tPokemons",
+			"contents": "Argalis"
+		},
+		{
+			"trigger": "Aurumoth\tPokemons",
+			"contents": "Aurumoth"
+		},
+		{
+			"trigger": "Brattler\tPokemons",
+			"contents": "Brattler"
+		},
+		{
+			"trigger": "Malaconda\tPokemons",
+			"contents": "Malaconda"
+		},
+		{
+			"trigger": "Cawdet\tPokemons",
+			"contents": "Cawdet"
+		},
+		{
+			"trigger": "Cawmodore\tPokemons",
+			"contents": "Cawmodore"
+		},
+		{
+			"trigger": "Volkritter\tPokemons",
+			"contents": "Volkritter"
+		},
+		{
+			"trigger": "Volkraken\tPokemons",
+			"contents": "Volkraken"
+		},
+		{
+			"trigger": "Snugglow\tPokemons",
+			"contents": "Snugglow"
+		},
+		{
+			"trigger": "Plasmanta\tPokemons",
+			"contents": "Plasmanta"
+		},
+		{
+			"trigger": "Floatoy\tPokemons",
+			"contents": "Floatoy"
+		},
+		{
+			"trigger": "Caimanoe\tPokemons",
+			"contents": "Caimanoe"
+		},
+		{
+			"trigger": "Naviathan\tPokemons",
+			"contents": "Naviathan"
+		},
+		{
+			"trigger": "Crucibelle\tPokemons",
+			"contents": "Crucibelle"
+		},
+		{
+			"trigger": "Crucibelle-Mega\tPokemons",
+			"contents": "Crucibelle-Mega"
+		},
+		{
+			"trigger": "Pluffle\tPokemons",
+			"contents": "Pluffle"
+		},
+		{
+			"trigger": "Kerfluffle\tPokemons",
+			"contents": "Kerfluffle"
+		},
+		{
+			"trigger": "Pajantom\tPokemons",
+			"contents": "Pajantom"
+		},
+		{
+			"trigger": "Mumbao\tPokemons",
+			"contents": "Mumbao"
+		},
+		{
+			"trigger": "Jumbao\tPokemons",
+			"contents": "Jumbao"
+		},
+		{
+			"trigger": "Fawnifer\tPokemons",
+			"contents": "Fawnifer"
+		},
+		{
+			"trigger": "Electrelk\tPokemons",
+			"contents": "Electrelk"
+		},
+		{
+			"trigger": "Caribolt\tPokemons",
+			"contents": "Caribolt"
+		},
+		{
+			"trigger": "Smogecko\tPokemons",
+			"contents": "Smogecko"
+		},
+		{
+			"trigger": "Smoguana\tPokemons",
+			"contents": "Smoguana"
+		},
+		{
+			"trigger": "Smokomodo\tPokemons",
+			"contents": "Smokomodo"
+		},
+		{
+			"trigger": "Swirlpool\tPokemons",
+			"contents": "Swirlpool"
+		},
+		{
+			"trigger": "Coribalis\tPokemons",
+			"contents": "Coribalis"
+		},
+		{
+			"trigger": "Snaelstrom\tPokemons",
+			"contents": "Snaelstrom"
+		},
+		{
+			"trigger": "Justyke\tPokemons",
+			"contents": "Justyke"
+		},
+		{
+			"trigger": "Equilibra\tPokemons",
+			"contents": "Equilibra"
+		},
+		{
+			"trigger": "Solotl\tPokemons",
+			"contents": "Solotl"
+		},
+		{
+			"trigger": "Astrolotl\tPokemons",
+			"contents": "Astrolotl"
+		},
+		{
+			"trigger": "Miasmaw\tPokemons",
+			"contents": "Miasmaw"
+		},
+		{
+			"trigger": "Pokestar Smeargle\tPokemons",
+			"contents": "Pokestar Smeargle"
 		},
 		{
 			"trigger": "Pokestar UFO\tPokemons",

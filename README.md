@@ -13,6 +13,10 @@ It was roughly tested in ST3 only. Please, help me out in testing it in other ed
 It's recommended to install it through [Package Control](http://packagecontrol.io), since it can update automatically when new releases are available. However, you can manually install it by [downloading it](https://github.com/forsureitsme/PokemonTeamSyntax/releases) and extracting to your Packages Folder([Preferences > Browse Packages](http://i.imgur.com/T2Qyuaz.jpg)).
 
 ## Changelog
+- 3.0.0
+  - Added every abilities, items, moves and pokemons since the latest update.
+  - Fixed completions
+  - Major development release: Development cycle now installs [Pokemon-Showdown-Client](https://github.com/Zarel/Pokemon-Showdown-Client) npm package locally to retrieve needed data, instead of pulling up from the repository everytime a build occurs.
 - 2.5.0
   - Pokestars added
 - 2.4.0
@@ -69,10 +73,8 @@ It's recommended to install it through [Package Control](http://packagecontrol.i
 
 ## Contribute
 
-Don't edit the ``PokemonTeamSyntax.tmLanguage``, it needs to be built with ``build.js``.
+Don't edit the ``PokemonTeamSyntax.tmLanguage``, it needs to be built with ``build.js`` script.
 You may edit any properties of ``PokemonTeamSyntax.sublime-completions`` file, except the ``completions`` one, since the build script is going to overwrite it.
-
-If you use Sublime Text 3, I included a project file which lets you build right away with your ``Build`` shortcut.
 
 ```shell
 # Install node, or make sure it's installed by running:
@@ -81,5 +83,5 @@ node -v
 # Clone the repository
 git clone https://github.com/forsureitsme/PokemonTeamSyntax.git
 npm install
-node build.js
+npm start
 ```
