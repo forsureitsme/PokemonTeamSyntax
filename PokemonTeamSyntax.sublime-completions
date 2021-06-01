@@ -1,5 +1,5 @@
 {
-	"scope": "source",
+	"scope": "source.pktm",
 	"completions": [
 		{
 			"trigger": "No Ability\tAbilities",
@@ -11436,6 +11436,10 @@
 		{
 			"trigger": "Astrolotl\tPokemons",
 			"contents": "Astrolotl"
+		},
+		{
+			"trigger": "Miasmite\tPokemons",
+			"contents": "Miasmite"
 		},
 		{
 			"trigger": "Miasmaw\tPokemons",

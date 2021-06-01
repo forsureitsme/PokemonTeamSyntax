@@ -13,6 +13,9 @@ It was roughly tested in ST3 only. Please, help me out in testing it in other ed
 It's recommended to install it through [Package Control](http://packagecontrol.io), since it can update automatically when new releases are available. However, you can manually install it by [downloading it](https://github.com/forsureitsme/PokemonTeamSyntax/releases) and extracting to your Packages Folder([Preferences > Browse Packages](http://i.imgur.com/T2Qyuaz.jpg)).
 
 ## Changelog
+- 3.0.1
+  - Added [Miasmite](https://www.smogon.com/dex/ss/pokemon/miasmite/).
+  - Limit scope of autocompletion to `.pktm` files.
 - 3.0.0
   - Added every abilities, items, moves and pokemons since the latest update.
   - Fixed completions
