@@ -1,6 +1,6 @@
 {
   "name": "pokemonteamsyntax",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Syntax highlighting for Pokemon Team's importables in Sublime Text, by setting the syntax on the lower right corner, or saving the file with the .pktm extension.",
   "main": "build.js",
   "type": "module",
