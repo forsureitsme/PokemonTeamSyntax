@@ -7,9 +7,17 @@ import PokedexFile from "pokemon-showdown/.data-dist/pokedex.js";
 import NaturesFile from "pokemon-showdown/.data-dist/natures.js";
 
 console.log('-- Building Syntax Highlight File');
-let syntaxFile = fs.readFileSync('PokemonTeamSyntax.JSON-tmLanguage', 'utf-8');
+
+const files = {
+	JSONtmLanguage: 'PokemonTeamSyntax.JSON-tmLanguage',
+	tmLanguage: 'PokemonTeamSyntax.tmLanguage',
+	sublimeCompletions: 'PokemonTeamSyntax.sublime-completions',
+}
+
+let syntaxFile = fs.readFileSync(files.JSONtmLanguage, 'utf-8');
 
 console.log('Started fetching.');
+
 const patterns = {
 	abilities: AbilitiesFile.Abilities,
 	items: ItemsFile.Items,
@@ -18,39 +26,45 @@ const patterns = {
 	natures: NaturesFile.Natures
 };
 
+const toCapital = (str) => str[0].toUpperCase() + str.slice(1);
+
 for (const [pattern, elements] of Object.entries(patterns)) {
-	let list = [];
-	for (const element in elements) {
-		list.push(elements[element].name);
-	}
-	syntaxFile = syntaxFile.replace('{{' + pattern + '}}', list.sort().reverse().join('|'));
+	const list = Object.values(elements).map(x => x.name);
+	const replaceTarget = '{{' + pattern + '}}';
+	const replaceValue = list.sort().reverse().join('|');
+
+	syntaxFile = syntaxFile.replace(replaceTarget, replaceValue);
 }
 
 console.log('Data gathered, writing language file.');
-fs.writeFileSync('PokemonTeamSyntax.tmLanguage', plist.build(JSON.parse(syntaxFile)));
-console.log('Done.');
 
+fs.writeFileSync(files.tmLanguage, plist.build(JSON.parse(syntaxFile)));
+
+console.log('Done.');
 console.log('-- Building Completions File');
 console.log('Reading current Completions file');
-let completionsFile = JSON.parse(fs.readFileSync('PokemonTeamSyntax.sublime-completions', 'utf-8'));
+
+let completionsFile = JSON.parse(fs.readFileSync(files.sublimeCompletions, 'utf-8'));
 
 console.log('Updating completions from data');
+
 completionsFile.completions = [];
-let completion = '';
-let tip = '';
 for (const [pattern, elements] of Object.entries(patterns)) {
-	for (const element in elements) {
-		completion = elements[element].name;
-		completion = completion.charAt(0).toUpperCase() + completion.slice(1);
-		tip = pattern.charAt(0).toUpperCase() + pattern.slice(1);
+	Object.values(elements).forEach(({ name }, index) => {
+		const type = toCapital(pattern);
+		let completion = toCapital(name);
+
+		if(pattern === 'natures') completion += ' Nature';
 
 		completionsFile.completions.push({
-			trigger: completion + '\t' + tip,
-			contents: pattern !== 'natures' ? completion : completion + ' Nature'
+			trigger: completion + '\t' + type,
+			contents: completion
 		});
-	}
+	})
 }
 
 console.log('Update finished, writing completions file.');
-fs.writeFileSync('PokemonTeamSyntax.sublime-completions', JSON.stringify(completionsFile, null, '\t'));
+
+fs.writeFileSync(files.sublimeCompletions, JSON.stringify(completionsFile, null, '\t'));
+
 console.log('Done.');
