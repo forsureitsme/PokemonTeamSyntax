@@ -48,6 +48,7 @@ let completionsFile = JSON.parse(fs.readFileSync(files.sublimeCompletions, 'utf-
 
 console.log('Updating completions from data');
 
+completionsFile.completions = [];
 for (const [pattern, elements] of Object.entries(patterns)) {
 	Object.values(elements).forEach(({ name }, index) => {
 		const type = toCapital(pattern);
@@ -55,10 +56,10 @@ for (const [pattern, elements] of Object.entries(patterns)) {
 
 		if(pattern === 'natures') completion += ' Nature';
 
-		completionsFile.completions[index] = {
+		completionsFile.completions.push({
 			trigger: completion + '\t' + type,
 			contents: completion
-		};
+		});
 	})
 }
 
