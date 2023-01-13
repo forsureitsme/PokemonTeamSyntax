@@ -1,13 +1,13 @@
 {
   "name": "pokemonteamsyntax",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "description": "Syntax highlighting for Pokemon Team's importables in Sublime Text, by setting the syntax on the lower right corner, or saving the file with the .pktm extension.",
   "main": "build.js",
   "type": "module",
   "dependencies": {
     "fs": "^0.0.2",
     "plist": "^3.0.2",
-    "pokemon-showdown": "latest"
+    "pokemon-showdown": "github:smogon/pokemon-showdown#master"
   },
   "devDependencies": {},
   "scripts": {
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/forsureitsme/PokemonTeamSyntax.git"
   },
-  "author": "Pedro Cardoso da Silva (forsureitsme/@HallyuWorldWave)",
+  "author": "Pedro Cardoso da Silva (@forsureitsme)",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/forsureitsme/PokemonTeamSyntax/issues"

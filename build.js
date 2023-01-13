@@ -1,10 +1,10 @@
 import fs from "fs";
 import plist from "plist";
-import AbilitiesFile from "pokemon-showdown/.data-dist/abilities.js";
-import ItemsFile from "pokemon-showdown/.data-dist/items.js";
-import MovesFile from "pokemon-showdown/.data-dist/moves.js";
-import PokedexFile from "pokemon-showdown/.data-dist/pokedex.js";
-import NaturesFile from "pokemon-showdown/.data-dist/natures.js";
+import AbilitiesFile from "pokemon-showdown/dist/data/abilities.js";
+import ItemsFile from "pokemon-showdown/dist/data/items.js";
+import MovesFile from "pokemon-showdown/dist/data/moves.js";
+import PokedexFile from "pokemon-showdown/dist/data/pokedex.js";
+import NaturesFile from "pokemon-showdown/dist/data/natures.js";
 
 console.log('-- Building Syntax Highlight File');
 
