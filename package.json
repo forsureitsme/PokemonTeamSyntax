@@ -6,7 +6,7 @@
   "type": "module",
   "dependencies": {
     "fs": "^0.0.2",
-    "plist": "^3.0.2",
+    "plist": "^4.0.0",
     "pokemon-showdown": "github:smogon/pokemon-showdown#master"
   },
   "devDependencies": {},
